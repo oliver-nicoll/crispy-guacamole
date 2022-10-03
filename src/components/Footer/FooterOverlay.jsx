@@ -1,10 +1,11 @@
-import React from 'react'
-import './FooterOverlay.css'
+import React from 'react';
 
-const FooterOverlay = () => {
-  return (
-    <div>FooterOverlay</div>
-  )
-}
+import './FooterOverlay.css';
 
-export default FooterOverlay
+const FooterOverlay = () => (
+  <div>
+    FooterOverlay
+  </div>
+);
+
+export default FooterOverlay;

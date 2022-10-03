@@ -1,9 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-const Intro = () => {
-  return (
-    <div>Intro</div>
-  )
-}
+import './Intro.css';
 
-export default Intro
+const Intro = () => (
+  <div>
+    Intro
+  </div>
+);
+
+export default Intro;

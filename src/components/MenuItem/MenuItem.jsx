@@ -1,10 +1,11 @@
-import React from 'react'
-import './MenuItem.css'
+import React from 'react';
 
-const MenuItem = () => {
-  return (
-    <div>MenuItem</div>
-  )
-}
+import './MenuItem.css';
 
-export default MenuItem
+const MenuItem = () => (
+  <div>
+    MenuItem
+  </div>
+);
+
+export default MenuItem;
