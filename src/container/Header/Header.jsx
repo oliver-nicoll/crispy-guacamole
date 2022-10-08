@@ -13,7 +13,7 @@ const Header = () => (
     </div>
 
     <div className="app__wrapper_img">
-
+      <img src={images.beermug} alt="header img" />
     </div>
   </div>
 );

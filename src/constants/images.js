@@ -20,6 +20,9 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import anomaly from '../assets/ANOMALY/1.png';
+import beermug from '../assets/ANOMALY/9.png'
+import mug2 from '../assets/ANOMALY/10.png'
+import amuglogo from '../assets/ANOMALY/7.png'
 
 export default {
   bg,
@@ -44,4 +47,7 @@ export default {
   sign,
   quote,
   anomaly,
+  beermug,
+  mug2,
+  amuglogo
 };
