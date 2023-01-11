@@ -4,13 +4,14 @@
 
 .app__header-h1 {
     font-family: var(--font-base);
-    color: var(--color-golden);
+    color: var(--color-crimson);
     letter-spacing: 0.04rem;
     text-transform: uppercase;
     line-height: 117px;
     font-size: 90px;
 }
 
-.app__header-img img {
+.app__wrapper_img img {
     width: 80%;
+    /* border-radius: 50%; */
 }
