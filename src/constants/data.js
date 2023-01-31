@@ -99,27 +99,32 @@ const beers = [
   },
 ];
 
-const awards = [
+const events = [
   {
-    imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    imgUrl: images.num1,
+    title: 'January Live Music - Rose Ostrowski and Brooke & Kevin',
+    subtitle: 'Here at our home location, January 27th @ 7pm - Rose, January 28th @ 7pm - Brooke & Kevin | Anomaly Craft Brewing',
   },
   {
-    imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    imgUrl: images.num2,
+    title: 'Coffeehouse Series - Live Music at Anomaly Craft Brewing',
+    subtitle: 'Here at our home location, February 8th @ 7pm - Bret Alexander, March 8th @ 7pm - The Clarence Spady Band, April 12th @ 7pm - Dave Keys & Friends | Anomaly Craft Brewing',
   },
   {
-    imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    imgUrl: images.num3,
+    title: 'Lions Gate Club House - Sip & Shop',
+    subtitle: 'Find us at the Lions Gate Club May 7th from 11am - 3pm | Anomaly Firetruck',
   },
   {
-    imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    imgUrl: images.num4,
+    title: 'Bloomsburg Fair',
+    subtitle: 'Catch us at the 2023 Bloomsburg Fair | Anomaly Firetruck & Food Trailer',
+  },
+  {
+    imgUrl: images.num5,
+    title: 'RiverFest',
+    subtitle: 'Catch us at the 2023 Berwick RiverFest | Anomaly Firetruck',
   },
 ];
 
-export default { coffees, beers, awards };
+export default { coffees, beers, events };

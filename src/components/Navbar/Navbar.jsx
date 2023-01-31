@@ -22,9 +22,9 @@ const Navbar = () => {
       <li className="p__opensans"><a href="#contact">Contact</a></li>
     </ul>
     <div className="app__navbar-login">
-      <a href="#login" className='p__opensans'>Log In / Register</a>
+      <a href="https://anomalycraftbrewing.square.site" target="_blank" className='p__opensans'>Order Online</a>
       <div/>
-      <a href="/" className='p__opensans'>Book Table</a>
+      <a href="tel:+1570-752-3522" className='p__opensans'>Book Table</a>
     </div>
     <div className="app__navbar-smallscrean">
       <GiHamburgerMenu color="var(--color-black)" fontSize={27} onClick={() => setToggleMenu(true)} />

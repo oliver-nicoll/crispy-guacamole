@@ -1,10 +1,3 @@
-import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
-import G from '../assets/G.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
 import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
@@ -12,11 +5,6 @@ import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
 import findus from '../assets/findus.png';
-import laurels from '../assets/laurels.png';
-import award01 from '../assets/award01.png';
-import award02 from '../assets/award02.png';
-import award03 from '../assets/award03.png';
-import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import anomaly from '../assets/ANOMALY/1.png';
@@ -30,29 +18,32 @@ import coffee from '../assets/ANOMALY/Food/c.png';
 import coffeeBeer from '../assets/ANOMALY/Food/cb.png';
 import coffeeBeerWhite from '../assets/ANOMALY/Food/coffeebeerwhite.png';
 import cup from '../assets/ANOMALY/Food/a cup.png';
-
-
+import owner from '../assets/ANOMALY/owner.jpg';
+import num1 from '../assets/1.png';
+import num2 from '../assets/2.png';
+import num3 from '../assets/3.png';
+import num4 from '../assets/4.png';
+import num5 from '../assets/5.png';
+import num6 from '../assets/6.png';
+import num7 from '../assets/7.png';
+import num8 from '../assets/8.png';
 import food2 from '../assets/ANOMALY/Food/18.jpg';
-// import food3 from '../assets/ANOMALY/Food/3.jpg';
-// import food4 from '../assets/ANOMALY/Food/4.jpg';
-// import food5 from '../assets/ANOMALY/Food/5.jpg';
-// import food6 from '../assets/ANOMALY/Food/6.jpg';
-// import food7 from '../assets/ANOMALY/Food/7.jpg';
-// import food8 from '../assets/ANOMALY/Food/8.jpg';
-// import food9 from '../assets/ANOMALY/Food/9.jpg';
+import elements from '../assets/elements.png';
+import firetruck from '../assets/truck.png';
+import truck from '../assets/firetruck.png';
+import food6 from '../assets/ANOMALY/Food/6.JPG';
+import food13 from '../assets/ANOMALY/Food/13.JPG';
+import food26 from '../assets/ANOMALY/Food/26.jpg';
+import food43 from '../assets/ANOMALY/Food/43.jpg';
+import shine from '../assets/shine.png';
+import shinev from '../assets/shinev.mp4';
+
 
 
 
 
 
 export default {
-  bg,
-  chef,
-  G,
-  gallery01,
-  gallery02,
-  gallery03,
-  gallery04,
   knife,
   logo,
   menu,
@@ -60,11 +51,6 @@ export default {
   spoon,
   welcome,
   findus,
-  laurels,
-  award01,
-  award02,
-  award03,
-  award05,
   sign,
   quote,
   anomaly,
@@ -78,12 +64,23 @@ export default {
   coffeeBeer,
   coffeeBeerWhite,
   cup,
+  owner,
   food2,
-  // food3,
-  // food4,
-  // food5,
-  // food6,
-  // food7,
-  // food8,
-  // food9
+  num1,
+  num2,
+  num3,
+  num4,
+  num5,
+  num6,
+  num7,
+  num8,
+  elements,
+  firetruck,
+  truck,
+  food6,
+  food13,
+  food26,
+  food43,
+  shine,
+  shinev,
 };
