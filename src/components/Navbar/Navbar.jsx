@@ -1,13 +1,16 @@
 import {useState} from 'react';
 import { GiHamburgerMenu } from 'react-icons/gi'
 import { MdOutlineRestaurantMenu } from 'react-icons/md' 
-
 import images from '../../constants/images'
 import './Navbar.css';
 
 const Navbar = () => {
 
-  const [togglerMenu, setToggleMenu] = useState(false)
+  const [toggleMenu, setToggleMenu] = useState(false)
+
+  const menuToggle = () => {
+    setToggleMenu(!toggleMenu)
+  }
 
   return (
     <nav className='app__navbar'>
@@ -27,12 +30,12 @@ const Navbar = () => {
       <a href="tel:+1570-752-3522" className='p__opensans'>Book Table</a>
     </div>
     <div className="app__navbar-smallscrean">
-      <GiHamburgerMenu color="var(--color-black)" fontSize={27} onClick={() => setToggleMenu(true)} />
+      <GiHamburgerMenu color="var(--color-black)" fontSize={27} onClick={menuToggle} />
 
-    {togglerMenu && (
+    {toggleMenu && (
       <div className="app__navbar-smallscreen_overlay flex__center slide-bottom">
-        <MdOutlineRestaurantMenu fontSize={27} className="overlay__close" onClick={() => setToggleMenu(false)} />
-          <ul className='app__navbar-smallscreen_links'>
+        <MdOutlineRestaurantMenu fontSize={27} className="overlay__close" />
+          <ul className='app__navbar-smallscreen_links' onClick={() => setToggleMenu(false)}>
             <li className="p__opensans"><a href="#home">Home</a></li>
             <li className="p__opensans"><a href="#about">About</a></li>
             <li className="p__opensans"><a href="#menu">Menu</a></li>
