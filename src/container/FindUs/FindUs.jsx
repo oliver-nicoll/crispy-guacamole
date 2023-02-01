@@ -1,5 +1,6 @@
 import React from 'react';
 import { SubHeading } from '../../components';
+import './FindUs.css';
 
 
 const FindUs = () => (
@@ -10,7 +11,7 @@ const FindUs = () => (
       <h1 className='headtext__cormorant' style={{marginBottom: '3rem'}}>Find Us</h1>
       <div className="app__wrapper-content">
         <p className='p__opensans'>135 West Front St., Berwick, Pa 18603</p>
-        <p className='p__opensans' style={{ color: '#DCCA87', margin: '2rem 0'}}>Opening Hours</p>
+        <p className='app__footer-headtext' style={{ color: '#DCCA87', margin: '2rem 0'}}>Hours</p>
         <p className='p__opensans'>Sunday: Closed</p>
         <p className='p__opensans'>Monday: Closed</p>
         <p className='p__opensans'>Tuesday: Closed</p>
@@ -19,7 +20,7 @@ const FindUs = () => (
         <p className='p__opensans'>Friday: 8AM - 10PM</p>
         <p className='p__opensans'>Saturday: 10AM - 10PM</p>
       </div>
-      <button className='custom__button'  style={{marginTop: '2rem'}}>Visit Us</button>
+      <a href='https://goo.gl/maps/vud6pSGbNFJ1KKD99' target='_blank'><button className='custom__button'  style={{marginTop: '2rem'}}>Visit Us</button></a>
     </div>
 
     <div className="app__wrapper_img">

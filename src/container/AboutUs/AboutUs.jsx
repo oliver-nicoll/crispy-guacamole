@@ -7,30 +7,32 @@ const AboutUs = () => (
     <div className="app__aboutus-overlay flex__center">
       <img src={images.logo_main} alt="anomaly logo" />
     </div>
-
+    
     <div className="app__aboutus-content flex__center">
       <div className="app__aboutus-content_about">
         <h1 className='headtext__cormorant'>About Us</h1>
         <img src={images.spoon} alt="about__spoon" className='spoon__image' />
         <p className="p__opensans">
-           Nicholas Oliver has taken over the legacy of A Perfect Blend Espresso & More, a 20-year-old business started by his grandmother Mary Lou Oliver, in honor of his late grandfather Arden Oliver. The business has rebranded as Anomaly Craft Brewing, offering the same food, coffee, and staff as before, but also adding new dinners and craft beer. Anomaly Craft Brewing can be found on social media at @anomalycraftbrewing.
+        Anomaly Craft Brewing is a family-owned brewery located in the heart of the community. We were established in 2022 as a rebranding of Marylou's Coffee Shop, which had been a staple in the area for 20 years. Our brewery is built on the pillars of faith-led decisions, community support, and a love for the brewing process. Our goal is to provide a warm and welcoming atmosphere where customers can enjoy a delicious craft beer and feel like part of the family.
         </p>
-        <button type='button' className='custom__button'>Know More!</button>
       </div>
 
-      <div className="app__aboutus-content_knife flex__center">
-        <img src={images.knife} alt="about__knife" />
+      <div className="app__aboutus-content_btn">
+        <a href='https://www.instagram.com/reel/CnkfwDMpt0C/?igshid=YWJhMjlhZTc=
+          https://www.instagram.com/reel/CnkfwDMpt0C/?igshid=YWJhMjlhZTc=' 
+          target="_blank"
+        >
+          <button type='button' className='custom__button'>Our Team</button>
+        </a>
       </div>
 
       <div className="app__aboutus-content_history">
         <h1 className='headtext__cormorant'>Our History</h1>
         <img src={images.spoon} alt="history__spoon" className='spoon__image' />
         <p className="p__opensans">
-        Established in 2022 as the new brewery on the block. Anomaly took over A Perfect Blend Esspresso and more as a last ditch effort to stay afloat. The coffee shop was in the family for 20 years before Nicholas Oliver took over the reigns and started the path of owning a brewery. The name Anomaly came through a military friend who suggested the name since Nicholas doesn’t drink... But don’t worry we have an expert master Brewer on our team - Steve-O.
+        Anomaly Craft Brewing has its roots in A Perfect Blend, a tea house established by Marylou Oliver in 2002. Over the years, Marylou's passion for good food and drink evolved and A Perfect Blend became known for its excellent coffee, teas, and baked goods. As the business passed on to her grandson Nicholas Oliver and his family, they decided to rebrand as Anomaly Craft Brewing and bring their unique blend of faith, family, and beer to customers. 
         </p>
-        <button type='button' className='custom__button'>Know More!</button>
       </div>
-
     </div>
   </div>
 );

@@ -9,9 +9,9 @@ const Header = () => (
       <SubHeading title="Chase the new flavor" />
       <h1 className='app__header-h1'>The Key to Brewing & Smoked Meats</h1>
       <p className='p__opensans header' style={{margin: '2rem 0', color: 'white'}}>
-      Brewing beer is a sensitive art, and the more control you have over the process, the better your results are going to be.   
+      Experience the fusion of fire and flavor as Anomaly Craft Brewing takes brewing and smoked meats to a whole new level, where every sip and bite is a symphony of smoky goodness, perfectly crafted with passion and precision.
       </p>
-      <button type='button' className='custom__button'>Explore Menu</button>
+      <a href="#menu"><button type='button' className='custom__button'>Explore Menu</button></a>
     </div>
 
     <div className="app__wrapper_img">
