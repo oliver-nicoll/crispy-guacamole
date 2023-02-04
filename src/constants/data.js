@@ -2,23 +2,23 @@ import images from './images';
 
 const coffees = [
   {
-    title: 'Peppermint Mocha',
-    price: '$5',
-    tags: "A traditional peppermint mocha latte topped w/ whip cream & peppermint pieces | 8 oz.",
+    title: 'Raspberry Chocolate',
+    price: '$6',
+    tags: "Made with our homemade raspberry syrup. Death by chocolate iced coffee and topped with whipped cream & heart sprinkles | 8 oz.",
   },
   {
     title: 'The Naughty List',
-    price: '$5',
+    price: '$6',
     tags: 'A chai latte stemed w/ 2 shots of espresso topped w/ cinnamon & nutmeg | 8oz',
   },
   {
     title: 'Anomaly Harvest',
-    price: '$5',
+    price: '$6',
     tags: 'Coffee combined w/ warm spices, chai tea & pumpkin pie syrup. All steamed w/ cream to perfection | 8oz',
   },
   {
     title: 'The Nice List',
-    price: '$5',
+    price: '$6',
     tags: 'Oatmilk steamed w/ 2 shots of espresso mixed w/ honey & cinnamon, topped w/ whip cream & cinnamon | 8 oz',
   },
 ];
@@ -27,7 +27,7 @@ const allbeers = [
   {
     title: 'Stout',
     price: '$5',
-    tags: 'APV: 5.7% | Dark Full bodied w/ roasted malts, english hops & celtic sea salt | craft beer | 16 oz',
+    tags: 'APV: 5.7% | Dark Full bodied w/ roasted malts, english hops & celtic sea salt | 16 oz',
   },
   {
     title: "Hazy IPA",
@@ -47,40 +47,50 @@ const allbeers = [
   {
     title: 'German Wheat',
     price: '$6',
-    tags: 'APV: 4.6% | Notes of banna & clove w/ German wheat, hops & malts | Campari | 16 oz',
+    tags: 'APV: 4.6% | Notes of banna & clove w/ German wheat, hops & malts | 16 oz',
   },
   {
     title: 'Criollo Porter',
     price: '$6',
-    tags: 'APV: 6.1% | Rich & Decadent - Porter infused w/ cocoa nibs & vinilla beans | Campari | 16 oz',
+    tags: 'APV: 6.1% | Rich & Decadent - Porter infused w/ cocoa nibs & vinilla beans | 16 oz',
   },
   {
     title: 'Pale Ale - Wai Mea',
     price: '$5',
-    tags: 'APV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | Campari | 16 oz',
+    tags: 'APV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | 16 oz',
   },
   {
     title: 'Dunkleweisen',
     price: '$5',
-    tags: 'APV: 5% | Fruity, Spicy, Full Bodied | Campari | 16 oz',
+    tags: 'APV: 5% | Dark Amber Wheat | 16 oz',
   },
   {
     title: 'Winter Warmer',
     price: '$6',
-    tags: 'APV: 6.7% | Sweet Vermouth | Campari | 16 oz',
+    tags: 'APV: 6.7% | Sweet Vermouth | 16 oz',
+  },
+  {
+    title: 'SoulFire',
+    price: '$6.50',
+    tags: 'APV: 7.7% | Honey spiced | 16 oz',
+  },
+  {
+    title: 'Cold Brew Stout',
+    price: '$5',
+    tags: 'APV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
   },
 ];
 
 const beers = [
   {
-    title: 'Stout',
+    title: 'Cold Brew Stout',
     price: '$5',
-    tags: 'APV: 5.7% | Dark Full bodied w/ roasted malts, english hops & celtic sea salt | craft beer | 16 oz',
+    tags: 'APV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
   },
   {
-    title: 'IPA',
-    price: '$6',
-    tags: 'APV: 6.8% | Smooth & Balanced - Simcoe, Amarillo & Galaxy hops | 16 oz',
+    title: 'Pale Ale - Wai Mea',
+    price: '$5',
+    tags: 'APV: 5.7% | Blended w/ New Zealand hops, smooth & balanced. Notes of citrus & pine | 16 oz',
   },
   {
     title: 'Helles',
@@ -88,9 +98,9 @@ const beers = [
     tags: 'APV: 5.4% | Crisp w/ German malts & hops | 16 oz',
   },
   {
-    title: 'Criollo Porter',
-    price: '$6',
-    tags: 'APV: 6.1% | Rich & Decadent - Porter infused w/ cocoa nibs & vinilla beans | Campari | 16 oz',
+    title: 'SoulFire',
+    price: '$6.50',
+    tags: 'APV: 7.7% | Honey spiced | 16 oz',
   },
   {
     title: 'Dunkleweisen',
@@ -102,8 +112,8 @@ const beers = [
 const events = [
   {
     imgUrl: images.num1,
-    title: 'January Live Music - Rose Ostrowski and Brooke & Kevin',
-    subtitle: 'Here at our home location, January 27th @ 7pm - Rose, January 28th @ 7pm - Brooke & Kevin | Anomaly Craft Brewing',
+    title: 'February Live Music - Springtown Rambler Trio, All That Glitter, Bret Alexander & Rose Ostrowski',
+    subtitle: 'Here at our home location, February 3rd @ 6:30pm - Trio, February 4th @ 7pm - All that Glitters, February 8th @ 7pm - Bret Alexander, and February 25th @7pm - Rose | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,

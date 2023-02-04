@@ -34,13 +34,15 @@ const Navbar = () => {
 
     {toggleMenu && (
       <div className="app__navbar-smallscreen_overlay flex__center slide-bottom">
-        <MdOutlineRestaurantMenu fontSize={27} className="overlay__close" />
+        <MdOutlineRestaurantMenu fontSize={27} className="overlay__close" onClick={() => setToggleMenu(false)}/>
           <ul className='app__navbar-smallscreen_links' onClick={() => setToggleMenu(false)}>
             <li className="p__opensans"><a href="#home">Home</a></li>
             <li className="p__opensans"><a href="#about">About</a></li>
             <li className="p__opensans"><a href="#menu">Menu</a></li>
             <li className="p__opensans"><a href="#events">Events</a></li>
             <li className="p__opensans"><a href="#contact">Contact</a></li>
+            <li className="p__opensans"><a href="https://anomalycraftbrewing.square.site" target="_blank">Order Online</a></li>
+            <li className='p__opensans'><a href="tel:+1570-752-3522">Book Table</a></li>
           </ul>
         </div>
         )}
