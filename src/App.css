@@ -38,6 +38,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 50% 20% / 10% 40%;
 
   margin-left: 2rem;
 }
@@ -49,6 +50,7 @@
 
 .app__wrapper_img img {
   width: 80%;
+  border-radius: 50% 20% / 10% 40%;
 }
 
 .custom__button {

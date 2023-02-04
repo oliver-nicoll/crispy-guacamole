@@ -11,7 +11,7 @@ const FindUs = () => (
       <h1 className='headtext__cormorant' style={{marginBottom: '3rem'}}>Find Us</h1>
       <div className="app__wrapper-content">
         <p className='p__opensans'>135 West Front St., Berwick, Pa 18603</p>
-        <p className='app__footer-headtext' style={{ color: '#DCCA87', margin: '2rem 0'}}>Hours</p>
+        <p className='app__footer-headtext' style={{ color: 'var(--color-crimson)', margin: '2rem 0'}}>Hours</p>
         <p className='p__opensans'>Sunday: Closed</p>
         <p className='p__opensans'>Monday: Closed</p>
         <p className='p__opensans'>Tuesday: Closed</p>
