@@ -79,18 +79,28 @@ const allbeers = [
     price: '$5',
     tags: 'APV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
   },
+  {
+    title: 'Rauchbier',
+    price: '$5',
+    tags: 'APV: 5.4% | Bamburg style lager, decoction mashed w/ munich & beechwood smoked malt | 16 oz',
+  },
+  {
+    title: 'AFO Pilsner',
+    price: '$5',
+    tags: 'APV: 5.3% | Fruity, Spicy, Full Bodied | 16 oz',
+  },
 ];
 
 const beers = [
   {
     title: 'Cold Brew Stout',
     price: '$5',
-    tags: 'APV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
+    tags: 'APV: 4.2% | Local cold brew coffee infused into a dark dry stout | 16 oz',
   },
   {
-    title: 'Pale Ale - Wai Mea',
+    title: 'Rauchbier',
     price: '$5',
-    tags: 'APV: 5.7% | Blended w/ New Zealand hops, smooth & balanced. Notes of citrus & pine | 16 oz',
+    tags: 'APV: 5.4% | Bamburg style lager, decoction mashed w/ munich & beechwood smoked malt | 16 oz',
   },
   {
     title: 'Helles',
@@ -100,12 +110,12 @@ const beers = [
   {
     title: 'SoulFire',
     price: '$6.50',
-    tags: 'APV: 7.7% | Honey spiced | 16 oz',
+    tags: 'APV: 7.7% | Honey spiced ale | 16 oz',
   },
   {
-    title: 'Dunkleweisen',
+    title: 'AFO Pilsner',
     price: '$5',
-    tags: 'APV: 5% | Fruity, Spicy, Full Bodied | Campari | 16 oz',
+    tags: 'APV: 5.3% | Clean bitterness & floral throughout yet approachable | 16 oz',
   },
 ];
 

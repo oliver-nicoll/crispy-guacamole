@@ -26,6 +26,10 @@
     height: 80%;
 }
 
+.button__events {
+    margin-top: 4em;
+}
+
 .app__events-card_content {
     display: flex;
     flex-direction: column;
