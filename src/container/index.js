@@ -7,6 +7,7 @@ import Header from './Header/Header';
 import Intro from './Intro/Intro';
 import Events from './Events/Events';
 import SpecialMenu from './SpecialMenu/SpecialMenu';
+import Mugclub from './Mugclub/Mugclub';
 
 export {
   AboutUs,
@@ -18,4 +19,5 @@ export {
   Intro,
   Events,
   SpecialMenu,
+  Mugclub,
 };

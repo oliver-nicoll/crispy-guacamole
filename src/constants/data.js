@@ -147,4 +147,37 @@ const events = [
   },
 ];
 
-export default { coffees, beers, events };
+const mugClubInfo = [
+  {
+    imgUrl: images.num1,
+    title: 'A custom made 20 oz. mug',
+    subtitle: 'That is an additional +4 fl. ounces more than our regular cup - Mugs made by: @a.peaceful.potter',
+  },
+  {
+    imgUrl: images.num2,
+    title: 'First fill of mug free of charge',
+    subtitle: 'Each mug will be numbered with your own unique member number',
+  },
+  {
+    imgUrl: images.num3,
+    title: 'Use the mug for COFFEE OR BEER',
+    subtitle: 'Best of both worlds!',
+  },
+  {
+    imgUrl: images.num4,
+    title: 'Charity donation',
+    subtitle: '$5 donated to local charity  with every membership sign up',
+  },
+  {
+    imgUrl: images.num5,
+    title: 'Member Only Events',
+    subtitle: 'Exclusive members only events w/ access to new beers sooner',
+  },
+  {
+    imgUrl: images.num6,
+    title: 'Complimentary Birthday Meal',
+    subtitle: 'Enjoy a meal on us!',
+  },
+]
+
+export default { coffees, beers, events, mugClubInfo };

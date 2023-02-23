@@ -1,7 +1,7 @@
 import React from 'react';
-import { useRef } from 'react';
-import {Link} from 'react-router-dom'
-import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs'
+// import { useRef } from 'react';
+// import {Link} from 'react-router-dom'
+import { BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs'
 import { SubHeading } from '../../components';
 // import InstaFeeds from './InstaFeeds';
 import {images} from '../../constants';
@@ -43,7 +43,6 @@ const Gallery = () => {
           {gallery.map((image, index) => (
                 <div className="app__gallery-images_card flex__center" key={`gallery_image-${index + 1}`}>
                   <img src={image} alt="gallery_image" />
-                  {/* <BsInstagram className="gallery__image-icon" /> */}
                 </div> 
               ))}
             </div>

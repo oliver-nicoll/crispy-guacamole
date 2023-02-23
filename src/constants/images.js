@@ -22,6 +22,7 @@ import food13 from '../assets/ANOMALY/Food/13.JPG';
 import food26 from '../assets/ANOMALY/Food/26.jpg';
 import food43 from '../assets/ANOMALY/Food/43.jpg';
 import shine from '../assets/shine.png';
+import mug from '../assets/mug.png';
 
 
 
@@ -52,4 +53,5 @@ export default {
   food26,
   food43,
   shine,
+  mug,
 };
