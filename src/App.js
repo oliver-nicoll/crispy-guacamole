@@ -11,7 +11,7 @@ const App = () => (
     <SpecialMenu />
     <Chef />
     <Intro />
-    <Mugclub />
+    {/* <Mugclub /> */}
     <Events />
     <Gallery />
     <FindUs />

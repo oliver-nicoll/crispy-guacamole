@@ -91,44 +91,46 @@ const allbeers = [
   },
 ];
 
+//updated 3/8/23
+
 const beers = [
-  {
-    title: 'Cold Brew Stout',
-    price: '$5',
-    tags: 'APV: 4.2% | Local cold brew coffee infused into a dark dry stout | 16 oz',
-  },
-  {
-    title: 'Rauchbier',
-    price: '$5',
-    tags: 'APV: 5.4% | Bamburg style lager, decoction mashed w/ munich & beechwood smoked malt | 16 oz',
-  },
   {
     title: 'Helles',
     price: '$5',
     tags: 'APV: 5.4% | Crisp w/ German malts & hops | 16 oz',
   },
   {
-    title: 'SoulFire',
-    price: '$6.50',
-    tags: 'APV: 7.7% | Honey spiced ale | 16 oz',
+    title: 'Irish Red',
+    price: '$5',
+    tags: 'APV: 5.4% | Smooth & Simple | 16 oz',
   },
   {
-    title: 'AFO Pilsner',
-    price: '$5',
-    tags: 'APV: 5.3% | Clean bitterness & floral throughout yet approachable | 16 oz',
+    title: 'Euclid Abbey',
+    price: '$6.50',
+    tags: 'APV: 7.5% | Belgium Style Dubbel | 16 oz',
+  },
+  {
+    title: 'Criollo Porter',
+    price: '$6',
+    tags: 'APV: 6.7% | Strong Porter | 16 oz',
+  },
+  {
+    title: 'ACB IPA',
+    price: '$6',
+    tags: 'APV: 7% | 16 oz',
   },
 ];
 
 const events = [
   {
     imgUrl: images.num1,
-    title: 'February Live Music - Springtown Rambler Trio, All That Glitter, Bret Alexander & Rose Ostrowski',
-    subtitle: 'Here at our home location, February 3rd @ 6:30pm - Trio, February 4th @ 7pm - All that Glitters, February 8th @ 7pm - Bret Alexander, and February 25th @7pm - Rose | Anomaly Craft Brewing',
+    title: 'March Live Music - The Clarence Spady Band, Springtown Rambler Trio, Jeff Jam!',
+    subtitle: 'Here at our home location, March 8th @ 7pm - The Clarence Spady Band, March 10th @ 6pm - Springtown Rambler Trio, March 22nd @ 6pm - Jeff Jam! | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
     title: 'Coffeehouse Series - Live Music at Anomaly Craft Brewing',
-    subtitle: 'Here at our home location, February 8th @ 7pm - Bret Alexander, March 8th @ 7pm - The Clarence Spady Band, April 12th @ 7pm - Dave Keys & Friends | Anomaly Craft Brewing',
+    subtitle: 'Here at our home location, March 8th @ 7pm - The Clarence Spady Band, April 12th @ 7pm - Dave Keys & Friends | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,

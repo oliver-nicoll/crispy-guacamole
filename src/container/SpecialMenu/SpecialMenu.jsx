@@ -38,7 +38,7 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{marginTop: '15px'}}>
-    <a href="https://anomalycraftbrewing.square.site" target="_blank"><button type='button' className="custom__button">Menu | Order Online</button></a>
+    <a href="https://anomalycraftbrewing.square.site" target="_blank"><button type='button' className="custom__button">Food Menu | Order Online</button></a>
     </div>
   </div>
 );
