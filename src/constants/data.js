@@ -115,9 +115,9 @@ const beers = [
     tags: 'APV: 6.7% | Strong Porter | 16 oz',
   },
   {
-    title: 'ACB IPA',
-    price: '$6',
-    tags: 'APV: 7% | 16 oz',
+    title: 'Angels Wings IPA',
+    price: '$6.50',
+    tags: 'APV: 7.5% | Bright, Floral, Citrus | 16 oz',
   },
 ];
 
