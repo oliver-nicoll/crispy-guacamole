@@ -15,10 +15,10 @@ const FindUs = () => (
         <p className='p__opensans'>Sunday: Closed</p>
         <p className='p__opensans'>Monday: Closed</p>
         <p className='p__opensans'>Tuesday: Closed</p>
-        <p className='p__opensans'>Wednesday: 8AM - 8PM</p>
-        <p className='p__opensans'>Thursday: 8AM - 8PM</p>
-        <p className='p__opensans'>Friday: 8AM - 10PM</p>
-        <p className='p__opensans'>Saturday: 10AM - 10PM</p>
+        <p className='p__opensans'>Wednesday: 6AM - 8PM</p>
+        <p className='p__opensans'>Thursday: 6AM - 8PM</p>
+        <p className='p__opensans'>Friday: 6AM - 10PM</p>
+        <p className='p__opensans'>Saturday: 9AM - 10PM</p>
       </div>
       <a href='https://goo.gl/maps/vud6pSGbNFJ1KKD99' target='_blank'><button className='custom__button'  style={{marginTop: '2rem'}}>Visit Us</button></a>
     </div>

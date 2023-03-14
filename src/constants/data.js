@@ -121,16 +121,17 @@ const beers = [
   },
 ];
 
+//updated 03.13
 const events = [
   {
     imgUrl: images.num1,
-    title: 'March Live Music - The Clarence Spady Band, Springtown Rambler Trio, Jeff Jam!',
-    subtitle: 'Here at our home location, March 8th @ 7pm - The Clarence Spady Band, March 10th @ 6pm - Springtown Rambler Trio, March 22nd @ 6pm - Jeff Jam! | Anomaly Craft Brewing',
+    title: 'Live Music - Jeff Jam!, Springtown Rambler Trio, Brooke & Kevin, ',
+    subtitle: 'Here at our home location, March 22nd @ 6pm - Jeff Jam!, April 1st @ 7pm - Brooke & Kevin, April 28th @ 6pm - Springtown Rambler Trio, May 12th @ 7pm - Brooke & Kevin  | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
     title: 'Coffeehouse Series - Live Music at Anomaly Craft Brewing',
-    subtitle: 'Here at our home location, March 8th @ 7pm - The Clarence Spady Band, April 12th @ 7pm - Dave Keys & Friends | Anomaly Craft Brewing',
+    subtitle: 'Here at our home location, April 12th @ 7pm - Dave Keys & Friends, May 10th @ 7pm - Deb Callahan Band | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
@@ -139,12 +140,12 @@ const events = [
   },
   {
     imgUrl: images.num4,
-    title: 'Bloomsburg Fair',
-    subtitle: 'Catch us at the 2023 Bloomsburg Fair | Anomaly Firetruck & Food Trailer',
+    title: 'Worship Night W/ Lauren Ney',
+    subtitle: 'Everyone is welcomed - Join us at Anomaly for our first ever worship night May 11th @ 6pm | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num5,
-    title: 'RiverFest',
+    title: 'Bloomsburg Fair',
     subtitle: 'Catch us at the 2023 Berwick RiverFest | Anomaly Firetruck',
   },
 ];

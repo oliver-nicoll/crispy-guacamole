@@ -18,6 +18,7 @@ import elements from '../assets/elements.png';
 import firetruck from '../assets/truck.png';
 import truck from '../assets/firetruck.png';
 import food6 from '../assets/ANOMALY/Food/6.JPG';
+import food16 from '../assets/ANOMALY/Food/16.jpg';
 import food13 from '../assets/ANOMALY/Food/13.JPG';
 import food26 from '../assets/ANOMALY/Food/26.jpg';
 import food43 from '../assets/ANOMALY/Food/43.jpg';
@@ -49,6 +50,7 @@ export default {
   firetruck,
   truck,
   food6,
+  food16,
   food13,
   food26,
   food43,
