@@ -105,9 +105,9 @@ const beers = [
     tags: 'APV: 5.4% | Smooth & Simple | 16 oz',
   },
   {
-    title: 'Euclid Abbey',
-    price: '$6.50',
-    tags: 'APV: 7.5% | Belgium Style Dubbel | 16 oz',
+    title: 'Cold Brew Stout',
+    price: '$5',
+    tags: 'APV: 4.8% | Locally sourced Cold Brew Coffee infused w/ a dry Irish Style Stout | 16 oz',
   },
   {
     title: 'Criollo Porter',
