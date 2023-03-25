@@ -30,6 +30,11 @@ const allbeers = [
     tags: 'APV: 5.7% | Dark Full bodied w/ roasted malts, english hops & celtic sea salt | 16 oz',
   },
   {
+    title: 'Euclid Abbey',
+    price: '$6.50',
+    tags: 'APV: 7.5% | Belgian Styled Dubbel | 16 oz',
+  },
+  {
     title: "Hazy IPA",
     price: '$6',
     tags: 'APV: 6.7%  | Hazy & Juicy w/ Citra, Simcoe & Galaxy hops | 16 oz',
@@ -91,7 +96,7 @@ const allbeers = [
   },
 ];
 
-//updated 3/10/23
+//updated 3/25/23
 
 const beers = [
   {
@@ -115,18 +120,18 @@ const beers = [
     tags: 'APV: 6.7% | Strong Porter | 16 oz',
   },
   {
-    title: 'Angels Wings IPA',
+    title: 'Euclid Abbey',
     price: '$6.50',
-    tags: 'APV: 7.5% | Bright, Floral, Citrus | 16 oz',
+    tags: 'APV: 7.5% | Belgian Styled Dubbel | 16 oz',
   },
 ];
 
-//updated 03.13
+//updated 03.25
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Live Music - Jeff Jam!, Springtown Rambler Trio, Brooke & Kevin, ',
-    subtitle: 'Here at our home location, March 22nd @ 6pm - Jeff Jam!, April 1st @ 7pm - Brooke & Kevin, April 28th @ 6pm - Springtown Rambler Trio, May 12th @ 7pm - Brooke & Kevin  | Anomaly Craft Brewing',
+    title: 'Springtown Rambler Trio, Brooke & Kevin, ',
+    subtitle: 'Here at our home location, April 1st @ 7pm - Brooke & Kevin, April 28th @ 6pm - Springtown Rambler Trio, May 12th @ 7pm - Brooke & Kevin  | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
