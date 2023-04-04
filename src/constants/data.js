@@ -30,6 +30,11 @@ const allbeers = [
     tags: 'APV: 5.7% | Dark Full bodied w/ roasted malts, english hops & celtic sea salt | 16 oz',
   },
   {
+    title: 'Irish Red',
+    price: '$5',
+    tags: 'APV: 5.4% | Smooth & Simple | 16 oz',
+  },
+  {
     title: 'Euclid Abbey',
     price: '$6.50',
     tags: 'APV: 7.5% | Belgian Styled Dubbel | 16 oz',
@@ -96,18 +101,18 @@ const allbeers = [
   },
 ];
 
-//updated 3/25/23
+//updated 4/01/23
 
 const beers = [
-  {
-    title: 'Helles',
+ {
+    title: 'Rauchbier',
     price: '$5',
-    tags: 'APV: 5.4% | Crisp w/ German malts & hops | 16 oz',
+    tags: 'APV: 5.4% | Bamburg style lager, decoction mashed w/ munich & beechwood smoked malt | 16 oz',
   },
   {
-    title: 'Irish Red',
+    title: 'Wheat',
     price: '$5',
-    tags: 'APV: 5.4% | Smooth & Simple | 16 oz',
+    tags: 'APV: 5% | Notes of banna & clove w/ German wheat, hops & malts | 16 oz',
   },
   {
     title: 'Cold Brew Stout',
