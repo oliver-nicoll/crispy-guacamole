@@ -62,6 +62,11 @@ const allbeers = [
   {
     title: 'Criollo Porter',
     price: '$6',
+    tags: 'APV: 6.7% | Strong Porter | 16 oz',
+  },
+  {
+    title: 'Criollo Porter',
+    price: '$6',
     tags: 'APV: 6.1% | Rich & Decadent - Porter infused w/ cocoa nibs & vinilla beans | 16 oz',
   },
   {
@@ -101,13 +106,13 @@ const allbeers = [
   },
 ];
 
-//updated 4/01/23
+//updated 4/20/23
 
 const beers = [
  {
-    title: 'Rauchbier',
+    title: 'Helles',
     price: '$5',
-    tags: 'APV: 5.4% | Bamburg style lager, decoction mashed w/ munich & beechwood smoked malt | 16 oz',
+    tags: 'APV: 5% | Crisp w/ German malts & hops | 16 oz',
   },
   {
     title: 'Wheat',
@@ -120,9 +125,9 @@ const beers = [
     tags: 'APV: 4.8% | Locally sourced Cold Brew Coffee infused w/ a dry Irish Style Stout | 16 oz',
   },
   {
-    title: 'Criollo Porter',
-    price: '$6',
-    tags: 'APV: 6.7% | Strong Porter | 16 oz',
+    title: 'Angels Wings IPA',
+    price: '$6.50',
+    tags: 'APV: 7% | Bright, Floral, Citrus | 16 oz',
   },
   {
     title: 'Euclid Abbey',
