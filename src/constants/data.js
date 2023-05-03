@@ -140,13 +140,13 @@ const beers = [
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Brooke & Kevin ',
-    subtitle: 'Here at our home location,  May 12th @ 7pm - Brooke & Kevin  | Anomaly Craft Brewing',
+    title: 'Springtown Ramblers, Brooke & Kevin, Jeff Jam, Dan Hess ',
+    subtitle: 'Here at our home location,  May 12th @ 7pm - Brooke & Kevin, May 19th @ 6pm - Springtown Ramblers, May 24th @ 6pm - Jeff Jam, June 9th @ 6pm - Dan Hess | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
     title: 'Coffeehouse Series - Live Music at Anomaly Craft Brewing',
-    subtitle: 'Here at our home location, May 10th @ 7pm - Deb Callahan Band | Anomaly Craft Brewing',
+    subtitle: 'Here at our home location, May 10th @ 7pm - Deb Callahan Band, June 14th @ 7pm - The Phyllis Hopkins Trio| Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
