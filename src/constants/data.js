@@ -140,8 +140,8 @@ const beers = [
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Springtown Rambler Trio, Brooke & Kevin, ',
-    subtitle: 'Here at our home location, April 1st @ 7pm - Brooke & Kevin, April 28th @ 6pm - Springtown Rambler Trio, May 12th @ 7pm - Brooke & Kevin  | Anomaly Craft Brewing',
+    title: 'Brooke & Kevin ',
+    subtitle: 'Here at our home location,  May 12th @ 7pm - Brooke & Kevin  | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
