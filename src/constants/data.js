@@ -27,112 +27,112 @@ const allbeers = [
   {
     title: 'Stout',
     price: '$5',
-    tags: 'APV: 5.7% | Dark Full bodied w/ roasted malts, english hops & celtic sea salt | 16 oz',
+    tags: 'ABV: 5.7% | Dark Full bodied w/ roasted malts, english hops & celtic sea salt | 16 oz',
   },
   {
     title: 'Irish Red',
     price: '$5',
-    tags: 'APV: 5.4% | Smooth & Simple | 16 oz',
+    tags: 'ABV: 5.4% | Smooth & Simple | 16 oz',
   },
   {
     title: 'Euclid Abbey',
     price: '$6.50',
-    tags: 'APV: 7.5% | Belgian Styled Dubbel | 16 oz',
+    tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
   },
   {
     title: "Hazy IPA",
     price: '$6',
-    tags: 'APV: 6.7%  | Hazy & Juicy w/ Citra, Simcoe & Galaxy hops | 16 oz',
+    tags: 'ABV: 6.7%  | Hazy & Juicy w/ Citra, Simcoe & Galaxy hops | 16 oz',
   },
   {
     title: 'IPA',
     price: '$6',
-    tags: 'APV: 6.8% | Smooth & Balanced - Simcoe, Amarillo & Galaxy hops | 16 oz',
+    tags: 'ABV: 6.8% | Smooth & Balanced - Simcoe, Amarillo & Galaxy hops | 16 oz',
   },
   {
     title: 'Helles',
     price: '$5',
-    tags: 'APV: 5.4% | Crisp w/ German malts & hops | 16 oz',
+    tags: 'ABV: 5.4% | Crisp w/ German malts & hops | 16 oz',
   },
   {
     title: 'German Wheat',
     price: '$6',
-    tags: 'APV: 4.6% | Notes of banna & clove w/ German wheat, hops & malts | 16 oz',
+    tags: 'ABV: 4.6% | Notes of banna & clove w/ German wheat, hops & malts | 16 oz',
   },
   {
     title: 'Criollo Porter',
     price: '$6',
-    tags: 'APV: 6.7% | Strong Porter | 16 oz',
+    tags: 'ABV: 6.7% | Strong Porter | 16 oz',
   },
   {
     title: 'Criollo Porter',
     price: '$6',
-    tags: 'APV: 6.1% | Rich & Decadent - Porter infused w/ cocoa nibs & vinilla beans | 16 oz',
+    tags: 'ABV: 6.1% | Rich & Decadent - Porter infused w/ cocoa nibs & vinilla beans | 16 oz',
   },
   {
     title: 'Pale Ale - Wai Mea',
     price: '$5',
-    tags: 'APV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | 16 oz',
+    tags: 'ABV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | 16 oz',
   },
   {
     title: 'Dunkleweisen',
     price: '$5',
-    tags: 'APV: 5% | Dark Amber Wheat | 16 oz',
+    tags: 'ABV: 5% | Dark Amber Wheat | 16 oz',
   },
   {
     title: 'Winter Warmer',
     price: '$6',
-    tags: 'APV: 6.7% | Sweet Vermouth | 16 oz',
+    tags: 'ABV: 6.7% | Sweet Vermouth | 16 oz',
   },
   {
     title: 'SoulFire',
     price: '$6.50',
-    tags: 'APV: 7.7% | Honey spiced | 16 oz',
+    tags: 'ABV: 7.7% | Honey spiced | 16 oz',
   },
   {
     title: 'Cold Brew Stout',
     price: '$5',
-    tags: 'APV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
+    tags: 'ABV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
   },
   {
     title: 'Rauchbier',
     price: '$5',
-    tags: 'APV: 5.4% | Bamburg style lager, decoction mashed w/ munich & beechwood smoked malt | 16 oz',
+    tags: 'ABV: 5.4% | Bamburg style lager, decoction mashed w/ munich & beechwood smoked malt | 16 oz',
   },
   {
     title: 'AFO Pilsner',
     price: '$5',
-    tags: 'APV: 5.3% | Fruity, Spicy, Full Bodied | 16 oz',
+    tags: 'ABV: 5.3% | Fruity, Spicy, Full Bodied | 16 oz',
   },
 ];
 
-//updated 4/20/23
+//updated 5/03/23
 
 const beers = [
  {
     title: 'Helles',
     price: '$5',
-    tags: 'APV: 5% | Crisp w/ German malts & hops | 16 oz',
+    tags: 'ABV: 5% | Crisp w/ German malts & hops | 16 oz',
   },
   {
-    title: 'Wheat',
+    title: 'New World Lager',
     price: '$5',
-    tags: 'APV: 5% | Notes of banna & clove w/ German wheat, hops & malts | 16 oz',
+    tags: 'ABV: 3.4% | Session I.P.L w/ big american hop character & a low ABV | 16 oz',
   },
   {
-    title: 'Cold Brew Stout',
+    title: 'Saison',
     price: '$5',
-    tags: 'APV: 4.8% | Locally sourced Cold Brew Coffee infused w/ a dry Irish Style Stout | 16 oz',
+    tags: 'ABV: 6.3% | A full flavored Belgian style ale - peppery, fruity, dry | 16 oz',
   },
   {
-    title: 'Angels Wings IPA',
-    price: '$6.50',
-    tags: 'APV: 7% | Bright, Floral, Citrus | 16 oz',
+    title: 'Pale Ale',
+    price: '$5',
+    tags: 'ABV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | 16 oz'
   },
   {
     title: 'Euclid Abbey',
     price: '$6.50',
-    tags: 'APV: 7.5% | Belgian Styled Dubbel | 16 oz',
+    tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
   },
 ];
 
@@ -146,7 +146,7 @@ const events = [
   {
     imgUrl: images.num2,
     title: 'Coffeehouse Series - Live Music at Anomaly Craft Brewing',
-    subtitle: 'Here at our home location, April 12th @ 7pm - Dave Keys & Friends, May 10th @ 7pm - Deb Callahan Band | Anomaly Craft Brewing',
+    subtitle: 'Here at our home location, May 10th @ 7pm - Deb Callahan Band | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
