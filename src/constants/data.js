@@ -104,9 +104,14 @@ const allbeers = [
     price: '$5',
     tags: 'ABV: 5.3% | Fruity, Spicy, Full Bodied | 16 oz',
   },
+  {
+    title: 'Euclid Abbey',
+    price: '$6.50',
+    tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
+  },
 ];
 
-//updated 5/03/23
+//updated 5/06/23
 
 const beers = [
  {
@@ -130,13 +135,13 @@ const beers = [
     tags: 'ABV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | 16 oz'
   },
   {
-    title: 'Euclid Abbey',
-    price: '$6.50',
-    tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
+    title: 'Willowtree White',
+    price: '$5',
+    tags: 'ABV: 4.6% | Belgian Styled White | 16 oz',
   },
 ];
 
-//updated 03.25
+//updated 05.06
 const events = [
   {
     imgUrl: images.num1,
