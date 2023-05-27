@@ -80,6 +80,11 @@ const allbeers = [
     tags: 'ABV: 5% | Dark Amber Wheat | 16 oz',
   },
   {
+    title: 'Saison',
+    price: '$5',
+    tags: 'ABV: 6.3% | A full flavored Belgian style ale - peppery, fruity, dry | 16 oz'
+  },
+  {
     title: 'Winter Warmer',
     price: '$6',
     tags: 'ABV: 6.7% | Sweet Vermouth | 16 oz',
@@ -109,9 +114,14 @@ const allbeers = [
     price: '$6.50',
     tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
   },
+  {
+    title: 'Pale Ale',
+    price: '$5',
+    tags: 'ABV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | 16 oz'
+  },
 ];
 
-//updated 5/06/23
+//updated 5/27/23
 
 const beers = [
  {
@@ -125,14 +135,14 @@ const beers = [
     tags: 'ABV: 3.4% | Session I.P.L w/ big american hop character & a low ABV | 16 oz',
   },
   {
-    title: 'Saison',
+    title: 'Bouza',
     price: '$5',
-    tags: 'ABV: 6.3% | A full flavored Belgian style ale - peppery, fruity, dry | 16 oz',
+    tags: "ABV: 3.5% | Wheat based, fermented w/ sourdough cultures, nfused w/ mixed berries - it's purple | 16 oz"
   },
   {
-    title: 'Pale Ale',
-    price: '$5',
-    tags: 'ABV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | 16 oz'
+    title: 'Angels Wings IPA',
+    price: '$6.50',
+    tags: "ABV: 7.5% | Bright, floral, citrus | 16 oz"
   },
   {
     title: 'Willowtree White',
@@ -141,7 +151,7 @@ const beers = [
   },
 ];
 
-//updated 05.06
+//updated 05.27
 const events = [
   {
     imgUrl: images.num1,
@@ -166,7 +176,7 @@ const events = [
   {
     imgUrl: images.num5,
     title: 'Bloomsburg Fair',
-    subtitle: 'Catch us at the 2023 Berwick RiverFest | Anomaly Firetruck',
+    subtitle: 'Catch us at the 2023 Bloomsburg Fair | Anomaly Firetruck',
   },
 ];
 
