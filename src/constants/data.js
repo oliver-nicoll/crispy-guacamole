@@ -119,9 +119,19 @@ const allbeers = [
     price: '$5',
     tags: 'ABV: 6.2% | Blended w/ New Zealand hops, smooth & balanced. Notes of orange & pine | 16 oz'
   },
+  {
+    title: 'Bouza',
+    price: '$5',
+    tags: "ABV: 3.5% | Wheat based, fermented w/ sourdough cultures, nfused w/ mixed berries - it's purple | 16 oz"
+  },
+  {
+    title: 'New World Lager',
+    price: '$5',
+    tags: 'ABV: 3.4% | Session I.P.L w/ big american hop character & a low ABV | 16 oz',
+  },
 ];
 
-//updated 5/27/23
+//updated 06/20/23
 
 const beers = [
  {
@@ -130,14 +140,14 @@ const beers = [
     tags: 'ABV: 5% | Crisp w/ German malts & hops | 16 oz',
   },
   {
-    title: 'New World Lager',
+    title: 'Rosa Salz',
     price: '$5',
-    tags: 'ABV: 3.4% | Session I.P.L w/ big american hop character & a low ABV | 16 oz',
+    tags: 'ABV: 4.2% | Gose style - Tart, refreshing saltiness | 16 oz',
   },
   {
-    title: 'Bouza',
+    title: 'Summer Dusk Porter',
     price: '$5',
-    tags: "ABV: 3.5% | Wheat based, fermented w/ sourdough cultures, nfused w/ mixed berries - it's purple | 16 oz"
+    tags: "ABV: 4.2% | A mild, dark beer w/ flavors of caramel, toffee & chocolate | 16 oz"
   },
   {
     title: 'Angels Wings IPA',
