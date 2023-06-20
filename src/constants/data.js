@@ -2,24 +2,24 @@ import images from './images';
 
 const coffees = [
   {
-    title: 'Raspberry Chocolate',
-    price: '$6',
-    tags: "Made with our homemade raspberry syrup. Death by chocolate iced coffee and topped with whipped cream & heart sprinkles | 8 oz.",
+    title: 'Pretzel & Beer Cheese',
+    price: '$11',
+    tags: "Soft pretzel served w/ our homemade beer cheese",
   },
   {
-    title: 'The Naughty List',
-    price: '$6',
-    tags: 'A chai latte stemed w/ 2 shots of espresso topped w/ cinnamon & nutmeg | 8oz',
+    title: 'Nachos',
+    price: '$11',
+    tags: 'Salsa, beer cheese, jalapeños, olives',
   },
   {
-    title: 'Anomaly Harvest',
-    price: '$6',
-    tags: 'Coffee combined w/ warm spices, chai tea & pumpkin pie syrup. All steamed w/ cream to perfection | 8oz',
+    title: 'Quesadilla',
+    price: '$11',
+    tags: 'Tortillas, sharp cheese, spinach, jalapeños, beer cheese, side of chips & salsa',
   },
   {
-    title: 'The Nice List',
-    price: '$6',
-    tags: 'Oatmilk steamed w/ 2 shots of espresso mixed w/ honey & cinnamon, topped w/ whip cream & cinnamon | 8 oz',
+    title: 'Smoked Brisket/Pork/Chicken Sandwich',
+    price: '$12',
+    tags: 'Your choice of smoked meat on a roll | side of chips or upgrade your side',
   },
 ];
 
@@ -129,6 +129,11 @@ const allbeers = [
     price: '$5',
     tags: 'ABV: 3.4% | Session I.P.L w/ big american hop character & a low ABV | 16 oz',
   },
+  {
+    title: 'Willowtree White',
+    price: '$5',
+    tags: 'ABV: 4.6% | Belgian Styled White | 16 oz',
+  },
 ];
 
 //updated 06/20/23
@@ -155,9 +160,9 @@ const beers = [
     tags: "ABV: 7.5% | Bright, floral, citrus | 16 oz"
   },
   {
-    title: 'Willowtree White',
+    title: 'Videre Pilsner',
     price: '$5',
-    tags: 'ABV: 4.6% | Belgian Styled White | 16 oz',
+    tags: 'ABV: 4.7% | Italian style brewed w/ mediterranean malt hops | 16 oz',
   },
 ];
 
@@ -165,23 +170,23 @@ const beers = [
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Springtown Ramblers, Brooke & Kevin, Jeff Jam, Dan Hess ',
-    subtitle: 'Here at our home location,  May 12th @ 7pm - Brooke & Kevin, May 19th @ 6pm - Springtown Ramblers, May 24th @ 6pm - Jeff Jam, June 9th @ 6pm - Dan Hess | Anomaly Craft Brewing',
+    title: 'Music by: Dan Hess ',
+    subtitle: 'Here at our home location,  July 21, 2023 @ 6PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
-    title: 'Coffeehouse Series - Live Music at Anomaly Craft Brewing',
-    subtitle: 'Here at our home location, May 10th @ 7pm - Deb Callahan Band, June 14th @ 7pm - The Phyllis Hopkins Trio| Anomaly Craft Brewing',
+    title: 'Music by: Brooke & Kevin',
+    subtitle: 'Here at our home location, August 4, 2023 @ 7PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
-    title: 'Lions Gate Club House - Sip & Shop',
-    subtitle: 'Find us at the Lions Gate Club May 7th from 11am - 3pm | Anomaly Firetruck',
+    title: 'Anomaly Firetruck @ Scoreboard Benefit',
+    subtitle: 'Find us at the Scoreboard on July 15, 2023 | Anomaly Firetruck',
   },
   {
     imgUrl: images.num4,
-    title: 'Worship Night W/ Lauren Ney',
-    subtitle: 'Everyone is welcomed - Join us at Anomaly for our first ever worship night May 11th @ 6pm | Anomaly Craft Brewing',
+    title: 'Celebrate Berwick',
+    subtitle: 'Come catch us at Celebrate Berwick with the firetruck | Anomaly Firetruck',
   },
   {
     imgUrl: images.num5,
