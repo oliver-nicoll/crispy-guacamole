@@ -136,7 +136,7 @@ const allbeers = [
   },
 ];
 
-//updated 06/20/23
+//updated 07/18/23
 
 const beers = [
  {
@@ -155,14 +155,14 @@ const beers = [
     tags: "ABV: 4.2% | A mild, dark beer w/ flavors of caramel, toffee & chocolate | 16 oz"
   },
   {
-    title: 'Angels Wings IPA',
-    price: '$6.50',
-    tags: "ABV: 7.5% | Bright, floral, citrus | 16 oz"
+    title: 'Wheat Bier',
+    price: '$5',
+    tags: "ABV: 5% | German style hefeweizen | 16 oz"
   },
   {
-    title: 'Videre Pilsner',
-    price: '$5',
-    tags: 'ABV: 4.7% | Italian style brewed w/ mediterranean malt hops | 16 oz',
+    title: 'Anomaly IPA',
+    price: '$6.50',
+    tags: 'ABV: 6.9% | Classic american style IPA. | 16 oz',
   },
 ];
 
@@ -170,23 +170,23 @@ const beers = [
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Music by: Dan Hess ',
-    subtitle: 'Here at our home location,  July 21, 2023 @ 6PM | Anomaly Craft Brewing',
+    title: 'Music by: Dan Hess, Brooke & Kevin',
+    subtitle: 'Here at our home location,  July 21, 2023 @ 6PM & August 4 @ 7PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
-    title: 'Music by: Brooke & Kevin',
-    subtitle: 'Here at our home location, August 4, 2023 @ 7PM | Anomaly Craft Brewing',
+    title: 'BBQ & Brews',
+    subtitle: 'Catch us at the Bloomsburg Fairgrounds, August 25 - 27 | Anomaly Firetruck',
   },
   {
     imgUrl: images.num3,
-    title: 'Anomaly Firetruck @ Scoreboard Benefit',
-    subtitle: 'Find us at the Scoreboard on July 15, 2023 | Anomaly Firetruck',
+    title: 'Skook Brew Fest',
+    subtitle: 'Find us at the Skook in Pottsville on Saturday, July 22nd @ 2PM | Anomaly Firetruck',
   },
   {
     imgUrl: images.num4,
     title: 'Celebrate Berwick',
-    subtitle: 'Come catch us at Celebrate Berwick with the firetruck | Anomaly Firetruck',
+    subtitle: 'Come catch us at Celebrate Berwick on August 5th with the firetruck | Anomaly Firetruck',
   },
   {
     imgUrl: images.num5,
