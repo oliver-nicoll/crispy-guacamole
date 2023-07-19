@@ -162,11 +162,11 @@ const beers = [
   {
     title: 'Anomaly IPA',
     price: '$6.50',
-    tags: 'ABV: 6.9% | Classic american style IPA. | 16 oz',
+    tags: 'ABV: 6.9% | Classic american style IPA | 16 oz',
   },
 ];
 
-//updated 05.27
+//updated 07.18
 const events = [
   {
     imgUrl: images.num1,
