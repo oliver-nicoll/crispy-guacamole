@@ -134,16 +134,6 @@ const allbeers = [
     price: '$5',
     tags: 'ABV: 4.6% | Belgian Styled White | 16 oz',
   },
-];
-
-//updated 07/18/23
-
-const beers = [
- {
-    title: 'Helles',
-    price: '$5',
-    tags: 'ABV: 5% | Crisp w/ German malts & hops | 16 oz',
-  },
   {
     title: 'Rosa Salz',
     price: '$5',
@@ -155,43 +145,68 @@ const beers = [
     tags: "ABV: 4.2% | A mild, dark beer w/ flavors of caramel, toffee & chocolate | 16 oz"
   },
   {
-    title: 'Wheat Bier',
-    price: '$5',
-    tags: "ABV: 5% | German style hefeweizen | 16 oz"
-  },
-  {
     title: 'Anomaly IPA',
     price: '$6.50',
     tags: 'ABV: 6.9% | Classic american style IPA | 16 oz',
   },
 ];
 
-//updated 07.18
+//updated 09.06.23
+
+const beers = [
+ {
+    title: 'Helles',
+    price: '$5',
+    tags: 'ABV: 5% | Crisp, light lager | 16 oz',
+  },
+  {
+    title: 'Peach Wheat',
+    price: '$5',
+    tags: 'ABV: 3% | Sour wheat beer - tart, refreshing and juicy | 16 oz',
+  },
+  {
+    title: 'Hazy IPA',
+    price: '$6',
+    tags: "ABV: 6.7% | Hazy & Juicy | 16 oz"
+  },
+  {
+    title: 'Wheat Bier',
+    price: '$5',
+    tags: "ABV: 5% | German style hefeweizen | 16 oz"
+  },
+  {
+    title: '4th Street Ale',
+    price: '$5',
+    tags: 'ABV: 5.6% | Local hops - Varieties unknown, subtle candied citrus notes | 16 oz',
+  },
+];
+
+//updated 09.06
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Music by: Dan Hess, Brooke & Kevin',
-    subtitle: 'Here at our home location,  July 21, 2023 @ 6PM & August 4 @ 7PM | Anomaly Craft Brewing',
+    title: 'Bloomsburg Fair',
+    subtitle: 'Catch us at the 2023 Bloomsburg Fair from September 22nd - September 30th | Anomaly Firetruck',
   },
   {
     imgUrl: images.num2,
-    title: 'BBQ & Brews',
-    subtitle: 'Catch us at the Bloomsburg Fairgrounds, August 25 - 27 | Anomaly Firetruck',
+    title: 'Worship Night w/TBD',
+    subtitle: 'Come worship with us - Date: TBD| Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
-    title: 'Skook Brew Fest',
-    subtitle: 'Find us at the Skook in Pottsville on Saturday, July 22nd @ 2PM | Anomaly Firetruck',
+    title: 'Saturday Beer Runs',
+    subtitle: 'Join us every Saturday at 10AM, run a 1 miler & get your token to redeem a free 12oz beer - redeemable anytime after 10AM on a Saturday  | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num4,
-    title: 'Celebrate Berwick',
-    subtitle: 'Come catch us at Celebrate Berwick on August 5th with the firetruck | Anomaly Firetruck',
+    title: 'Coffeehouse Series',
+    subtitle: 'Music by: Harper & Midwest Kind - Wednesday, October 11th @ 7PM| Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num5,
-    title: 'Bloomsburg Fair',
-    subtitle: 'Catch us at the 2023 Bloomsburg Fair | Anomaly Firetruck',
+    title: 'Trivia Nights w/ Alex Oliver',
+    subtitle: 'Join the FUN every Thursday with our quiz master Alex Oliver - 6PM | Anomaly Craft Brewing',
   },
 ];
 

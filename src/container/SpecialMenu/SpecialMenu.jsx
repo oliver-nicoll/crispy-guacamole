@@ -3,6 +3,7 @@ import React from 'react';
 import { SubHeading, MenuItem } from '../../components';
 import { images, data } from '../../constants'
 import './SpecialMenu.css';
+import menudoc from '../../assets/ANOMALY/anomaly menu.pdf';
 
 const SpecialMenu = () => (
   <div className='app__specialMenu flex__center section__padding' id='menu'>
@@ -38,7 +39,7 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{marginTop: '15px'}}>
-    <a href="https://anomalycraftbrewing.square.site" target="_blank"><button type='button' className="custom__button">Food Menu | Order Online</button></a>
+    <a href={menudoc} download="Anomaly Menu" target="_blank"><button type='button' className="custom__button">Food Menu</button></a>
     </div>
   </div>
 );

@@ -26,7 +26,7 @@ const Navbar = () => {
       <li className="p__opensans"><a href="#contact">Contact</a></li>
     </ul>
     <div className="app__navbar-login">
-      <a href="https://anomalycraftbrewing.square.site" target="_blank" className='p__opensans'>Order Online</a>
+      {/* <a href="https://anomalycraftbrewing.square.site" target="_blank" className='p__opensans'>Order Online</a> */}
       <div/>
       <a href="tel:+1570-752-3522" className='p__opensans'>Book Table</a>
     </div>
@@ -43,7 +43,7 @@ const Navbar = () => {
             {/* <li className="p__opensans"><a href="#mugclub">Mug Club</a></li> */}
             <li className="p__opensans"><a href="#events">Events</a></li>
             <li className="p__opensans"><a href="#contact">Contact</a></li>
-            <li className="p__opensans"><a href="https://anomalycraftbrewing.square.site" target="_blank">Order Online</a></li>
+            {/* <li className="p__opensans"><a href="https://anomalycraftbrewing.square.site" target="_blank">Order Online</a></li> */}
             <li className='p__opensans'><a href="tel:+1570-752-3522">Book Table</a></li>
           </ul>
         </div>

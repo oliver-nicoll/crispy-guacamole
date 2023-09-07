@@ -24,6 +24,12 @@ import food26 from '../assets/ANOMALY/Food/26.jpg';
 import food43 from '../assets/ANOMALY/Food/43.jpg';
 import shine from '../assets/shine.png';
 import mug from '../assets/mug.png';
+import firetruck2 from '../assets/Firetruck.JPG';
+import pretzel from '../assets/PretzelTwo.JPG';
+import pretz from '../assets/Pretzel.JPG';
+import pour from '../assets/Pour.JPG';
+import bbq from '../assets/BBQ.JPG';
+import fermenters from '../assets/Fermenters.JPG';
 
 
 
@@ -56,4 +62,10 @@ export default {
   food43,
   shine,
   mug,
+  firetruck2,
+  pretz,
+  pretzel,
+  pour,
+  bbq,
+  fermenters,
 };
