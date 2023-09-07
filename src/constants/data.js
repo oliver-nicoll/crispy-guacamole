@@ -149,6 +149,11 @@ const allbeers = [
     price: '$6.50',
     tags: 'ABV: 6.9% | Classic american style IPA | 16 oz',
   },
+  {
+    title: 'Wheat Bier',
+    price: '$5',
+    tags: "ABV: 5% | German style hefeweizen | 16 oz"
+  },
 ];
 
 //updated 09.06.23
@@ -170,9 +175,9 @@ const beers = [
     tags: "ABV: 6.7% | Hazy & Juicy | 16 oz"
   },
   {
-    title: 'Wheat Bier',
+    title: 'Festbier',
     price: '$5',
-    tags: "ABV: 5% | German style hefeweizen | 16 oz"
+    tags: "ABV: 5.8% | Malt driven amber lager | 16 oz"
   },
   {
     title: '4th Street Ale',
