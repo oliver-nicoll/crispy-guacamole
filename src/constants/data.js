@@ -154,9 +154,29 @@ const allbeers = [
     price: '$5',
     tags: "ABV: 5% | German style hefeweizen | 16 oz"
   },
+  {
+    title: 'Peach Wheat',
+    price: '$5',
+    tags: 'ABV: 3% | Sour wheat beer - tart, refreshing and juicy | 16 oz',
+  },
+  {
+    title: '4th Street Ale',
+    price: '$5',
+    tags: 'ABV: 5.6% | Local hops - Varieties unknown, subtle candied citrus notes | 16 oz'
+  },
+ {
+    title: 'Festbier',
+    price: '$5',
+        tags: "ABV: 5.8% | Malt driven amber lager | 16 oz"
+ } ,
+ {
+  title: 'Hazy IPA',
+  price: '$6',
+  tags: "ABV: 6.7% | Hazy & Juicy | 16 oz"
+ } 
 ];
 
-//updated 09.06.23
+//updated 10.25.23
 
 const beers = [
  {
@@ -165,48 +185,43 @@ const beers = [
     tags: 'ABV: 5% | Crisp, light lager | 16 oz',
   },
   {
-    title: 'Peach Wheat',
+    title: 'Squash Patch',
     price: '$5',
-    tags: 'ABV: 3% | Sour wheat beer - tart, refreshing and juicy | 16 oz',
+    tags: 'ABV: 6.4% | Fall time spiced ale, locally grown and roasted butternut squash | 16 oz',
   },
   {
-    title: 'Hazy IPA',
+    title: 'Criollo Porter',
     price: '$6',
-    tags: "ABV: 6.7% | Hazy & Juicy | 16 oz"
+    tags: "ABV: 6.4% | A rich, decadent portor bursting w/ heady Madagascar vanilla and house roasted cocoa nibs | 16 oz"
   },
   {
-    title: 'Festbier',
+    title: 'Autumn Wheat',
     price: '$5',
-    tags: "ABV: 5.8% | Malt driven amber lager | 16 oz"
-  },
-  {
-    title: '4th Street Ale',
-    price: '$5',
-    tags: 'ABV: 5.6% | Local hops - Varieties unknown, subtle candied citrus notes | 16 oz',
+    tags: 'ABV: 4.8% | Dark German-style wheat beer - Malty, Spicy, Fruity | 16 oz',
   },
 ];
 
-//updated 09.06
+//updated 10.25.23
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Bloomsburg Fair',
-    subtitle: 'Catch us at the 2023 Bloomsburg Fair from September 22nd - September 30th | Anomaly Firetruck',
+    title: 'Downtown Halloween Party',
+    subtitle: 'Come to our Spooktacular event on Tuesday, October 31 from 6PM - 8PM with your little and enjoy trick or treating through our downtown small businesses! We are hosting a pumpkin carving contest from 6:30 - 7PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
-    title: 'Worship Night w/TBD',
-    subtitle: 'Come worship with us - Date: TBD| Anomaly Craft Brewing',
+    title: 'Music: Coffeehouse Series',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, November 8th @ 7PM, Music by: Brooks Williams & on Wednesday, December 13th @ 7PM, Music by: The Hex Highway Blues Band | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
-    title: 'Saturday Beer Runs',
-    subtitle: 'Join us every Saturday at 10AM, run a 1 miler & get your token to redeem a free 12oz beer - redeemable anytime after 10AM on a Saturday  | Anomaly Craft Brewing',
+    title: 'Every Saturday Beer Run/ Walk - 10AM',
+    subtitle: 'Join us every Saturday at 10AM, run/walk a 1 miler & get your token to redeem a free 12oz beer - redeemable anytime after 10AM on a Saturday  | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num4,
-    title: 'Coffeehouse Series',
-    subtitle: 'Music by: Harper & Midwest Kind - Wednesday, October 11th @ 7PM| Anomaly Craft Brewing',
+    title: 'Worship Night w/ Lauren Ney & Tim Karnes',
+    subtitle: 'Come worship the lord w/ us on Friday, November 17 @ 7PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num5,

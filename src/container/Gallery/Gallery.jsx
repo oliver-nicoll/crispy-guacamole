@@ -8,7 +8,7 @@ import {images} from '../../constants';
 import './Gallery.css';
 
 
-const gallery = [images.bbq, images.pretzel, images.firetruck2, images.pour, images.pretz, images.fermenters]
+const gallery = [images.bbq, images.pretzel, images.firetruck2, images.pour, images.food16, images.fermenters]
 
 
 const Gallery = () => {
