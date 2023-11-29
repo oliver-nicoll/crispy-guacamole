@@ -2,6 +2,11 @@ import images from './images';
 
 const coffees = [
   {
+    title: 'Breakfast Sandwich',
+    price: '$12',
+    tags: "Delicious & offered all day! The perfect, mouth watering brekkie option.",
+  },
+  {
     title: 'Pretzel & Beer Cheese',
     price: '$11',
     tags: "Soft pretzel served w/ our homemade beer cheese",
@@ -173,10 +178,25 @@ const allbeers = [
   title: 'Hazy IPA',
   price: '$6',
   tags: "ABV: 6.7% | Hazy & Juicy | 16 oz"
- } 
+ } ,
+ {
+  title: 'Squash Patch',
+ price: '$5',
+ tags: 'ABV: 6.4% | Fall time spiced ale, locally grown and roasted butternut squash | 16 oz'
+},
+{
+  title: 'Criollo Porter',
+  price: '$6',
+  tags: "ABV: 6.4% | A rich, decadent portor bursting w/ heady Madagascar vanilla and house roasted cocoa nibs | 16 oz"
+},
+{
+  title: 'Autumn Wheat',
+  price: '$5',
+  tags: 'ABV: 4.8% | Dark German-style wheat beer - Malty, Spicy, Fruity | 16 oz',
+},
 ];
 
-//updated 10.25.23
+//updated 11.28.23
 
 const beers = [
  {
@@ -185,19 +205,24 @@ const beers = [
     tags: 'ABV: 5% | Crisp, light lager | 16 oz',
   },
   {
-    title: 'Squash Patch',
-    price: '$5',
-    tags: 'ABV: 6.4% | Fall time spiced ale, locally grown and roasted butternut squash | 16 oz',
+    title: 'Spirals in Hyperspace',
+    price: '$7.50',
+    tags: 'ABV: 9% | Imperial Stout aged w/ french oak spirals soaked in Brandy | 16 oz',
   },
   {
-    title: 'Criollo Porter',
+    title: 'West Front Stout',
+    price: '$5',
+    tags: "ABV: 4.5% | Irish style stout brewed w/ dark roasted malts | 16 oz"
+  },
+  {
+    title: 'Winter Warmer',
     price: '$6',
-    tags: "ABV: 6.4% | A rich, decadent portor bursting w/ heady Madagascar vanilla and house roasted cocoa nibs | 16 oz"
+    tags: 'ABV: 6.5% | Ruby colored english style ale | 16 oz',
   },
   {
-    title: 'Autumn Wheat',
-    price: '$5',
-    tags: 'ABV: 4.8% | Dark German-style wheat beer - Malty, Spicy, Fruity | 16 oz',
+    title: 'Angels Wings Ipa',
+    price: '$6',
+    tags: 'ABV: 6.4% | New zealand hops throughout| 16 oz',
   },
 ];
 
@@ -205,23 +230,23 @@ const beers = [
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Downtown Halloween Party',
-    subtitle: 'Come to our Spooktacular event on Tuesday, October 31 from 6PM - 8PM with your little and enjoy trick or treating through our downtown small businesses! We are hosting a pumpkin carving contest from 6:30 - 7PM | Anomaly Craft Brewing',
+    title: 'Berwick Winterfest',
+    subtitle: 'Come be part of our local event held in our downtown event on Saturday, Decemnber 9th from 5PM - 9PM with your little and enjoy time as a family | Anomaly Craft Brewing & Anomaly Firetruck',
   },
   {
     imgUrl: images.num2,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, November 8th @ 7PM, Music by: Brooks Williams & on Wednesday, December 13th @ 7PM, Music by: The Hex Highway Blues Band | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, December 13th @ 7PM, Music by: The Hex Highway Blues Band | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
-    title: 'Every Saturday Beer Run/ Walk - 10AM',
-    subtitle: 'Join us every Saturday at 10AM, run/walk a 1 miler & get your token to redeem a free 12oz beer - redeemable anytime after 10AM on a Saturday  | Anomaly Craft Brewing',
+    title: 'Watsontown Winter Wonderland',
+    subtitle: ' December 1st from 4PM - 9PM & December 2nd from 11AM - 8PM| Anomaly Firetruck',
   },
   {
     imgUrl: images.num4,
-    title: 'Worship Night w/ Lauren Ney & Tim Karnes',
-    subtitle: 'Come worship the lord w/ us on Friday, November 17 @ 7PM | Anomaly Craft Brewing',
+    title: 'Live Music at Anomaly',
+    subtitle: 'Join us for some live musice by Brooke & Kevin on December 8th from 7-9PM & some Kenny Kerry Band on December 23rd @ 7PM| Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num5,

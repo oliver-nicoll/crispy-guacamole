@@ -1,6 +1,8 @@
 import React from 'react';
 import { images } from '../../constants'
 import './AboutUs.css';
+import TeamPic from '../../assets/Team2023.png'
+
 
 const AboutUs = () => (
   <div className='app__aboutus app__bg flex__center section__padding' id='about'>
@@ -18,10 +20,8 @@ const AboutUs = () => (
       </div>
 
       <div className="app__aboutus-content_btn">
-        <a href='https://www.instagram.com/reel/CnkfwDMpt0C/?igshid=YWJhMjlhZTc=
-          https://www.instagram.com/reel/CnkfwDMpt0C/?igshid=YWJhMjlhZTc=' 
-          target="_blank"
-        >
+        <a href={TeamPic}
+          target="_blank">
           <button type='button' className='custom__button'>Our Team</button>
         </a>
       </div>
