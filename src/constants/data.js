@@ -194,9 +194,29 @@ const allbeers = [
   price: '$5',
   tags: 'ABV: 4.8% | Dark German-style wheat beer - Malty, Spicy, Fruity | 16 oz',
 },
+{
+  title: 'Spirals in Hyperspace',
+  price: '$7.50',
+  tags: 'ABV: 9% | Imperial Stout aged w/ french oak spirals soaked in Brandy | 16 oz',
+},
+{
+  title: 'West Front Stout',
+  price: '$5',
+  tags: "ABV: 4.5% | Irish style stout brewed w/ dark roasted malts | 16 oz"
+},
+{
+  title: 'Winter Warmer',
+  price: '$6',
+  tags: 'ABV: 6.5% | Ruby colored english style ale | 16 oz',
+},
+{
+  title: 'Angels Wings Ipa',
+  price: '$6',
+  tags: 'ABV: 6.4% | New zealand hops throughout| 16 oz',
+},
 ];
 
-//updated 11.28.23
+//updated 01.03.24
 
 const beers = [
  {
@@ -205,53 +225,53 @@ const beers = [
     tags: 'ABV: 5% | Crisp, light lager | 16 oz',
   },
   {
+    title: 'Currant Jam',
+    price: '$5',
+    tags: 'ABV: 3.5% | Light, refreshing wheat based beer infused w/ black currant, dry, tart w/ flavors of cranberry & blackberry | 16 oz',
+  },
+  {
+    title: 'Criollo Porter',
+    price: '$6',
+    tags: "ABV: 6.4% | Rich decadent porter bursting w/ heady madagascar vanilla & house roasted cacao nibs | 16 oz"
+  },
+  {
     title: 'Spirals in Hyperspace',
     price: '$7.50',
     tags: 'ABV: 9% | Imperial Stout aged w/ french oak spirals soaked in Brandy | 16 oz',
   },
   {
-    title: 'West Front Stout',
-    price: '$5',
-    tags: "ABV: 4.5% | Irish style stout brewed w/ dark roasted malts | 16 oz"
-  },
-  {
-    title: 'Winter Warmer',
+    title: 'Soulfire',
     price: '$6',
-    tags: 'ABV: 6.5% | Ruby colored english style ale | 16 oz',
-  },
-  {
-    title: 'Angels Wings Ipa',
-    price: '$6',
-    tags: 'ABV: 6.4% | New zealand hops throughout| 16 oz',
+    tags: 'ABV: 7.7% | Winter spiced ale brewed w/ local honey, cinnamon & orange peel. Smooth & Warming | 16 oz',
   },
 ];
 
-//updated 10.25.23
+//updated 01.03.24
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Berwick Winterfest',
-    subtitle: 'Come be part of our local event held in our downtown event on Saturday, Decemnber 9th from 5PM - 9PM with your little and enjoy time as a family | Anomaly Craft Brewing & Anomaly Firetruck',
+    title: 'Music by: Brooke & Kevin',
+    subtitle: 'Come enjoy some live music at our brewery - Brooke & Kevin Live on Saturday, January 6th, 2024 @ 7PM  & Friday, January 19th, 2024 @ 7PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, December 13th @ 7PM, Music by: The Hex Highway Blues Band | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, January 10th, 2024 @ 7PM, Music by: Max & The Magics | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
-    title: 'Watsontown Winter Wonderland',
-    subtitle: ' December 1st from 4PM - 9PM & December 2nd from 11AM - 8PM| Anomaly Firetruck',
+    title: 'Music by: Just Alright Band',
+    subtitle: 'Come enjoy some live music at our brewery - The Just Alright Band Live on Friday, January 26th, 2024 @ 7PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num4,
-    title: 'Live Music at Anomaly',
-    subtitle: 'Join us for some live musice by Brooke & Kevin on December 8th from 7-9PM & some Kenny Kerry Band on December 23rd @ 7PM| Anomaly Craft Brewing',
+    title: 'Music by: Autumn Falls Entertainment',
+    subtitle: 'Join us for some live music by Autumn Falls Entertainment at our brewery on Saturday, Febuary 24th @ 7PM| Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num5,
     title: 'Trivia Nights w/ Alex Oliver',
-    subtitle: 'Join the FUN every Thursday with our quiz master Alex Oliver - 6PM | Anomaly Craft Brewing',
+    subtitle: 'Join the FUN Every Thursday with our quiz master Alex Oliver - 6PM | Anomaly Craft Brewing',
   },
 ];
 
