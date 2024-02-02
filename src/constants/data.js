@@ -241,12 +241,12 @@ const beers = [
   },
   {
     title: 'Euclid Abbey',
-    price: '$6.00',
+    price: '$6',
     tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
   },
   {
     title: 'Anomaly IPA',
-    price: '$6.00',
+    price: '$6',
     tags: 'ABV: 7.1% | Classic american style IPA | 16 oz',
   },
   {
