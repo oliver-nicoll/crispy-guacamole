@@ -116,7 +116,7 @@ const allbeers = [
   },
   {
     title: 'Euclid Abbey',
-    price: '$6.50',
+    price: '$6.00',
     tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
   },
   {
@@ -214,9 +214,19 @@ const allbeers = [
   price: '$6',
   tags: 'ABV: 6.4% | New zealand hops throughout| 16 oz',
 },
+{
+  title: 'Currant Jam',
+  price: '$5',
+  tags: 'ABV: 3.5% | Light, refreshing wheat based beer infused w/ black currant, dry, tart w/ flavors of cranberry & blackberry | 16 oz',
+},
+{
+  title: 'Spirals in Hyperspace',
+  price: '$7.50',
+  tags: 'ABV: 9% | Imperial Stout aged w/ french oak spirals soaked in Brandy | 16 oz',
+},
 ];
 
-//updated 01.03.24
+//updated 02.02.24
 
 const beers = [
  {
@@ -225,19 +235,19 @@ const beers = [
     tags: 'ABV: 5% | Crisp, light lager | 16 oz',
   },
   {
-    title: 'Currant Jam',
+    title: 'Wheat Bier',
     price: '$5',
-    tags: 'ABV: 3.5% | Light, refreshing wheat based beer infused w/ black currant, dry, tart w/ flavors of cranberry & blackberry | 16 oz',
+    tags: "ABV: 5% | German style hefeweizen | 16 oz"
   },
   {
-    title: 'Criollo Porter',
-    price: '$6',
-    tags: "ABV: 6.4% | Rich decadent porter bursting w/ heady madagascar vanilla & house roasted cacao nibs | 16 oz"
+    title: 'Euclid Abbey',
+    price: '$6.00',
+    tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
   },
   {
-    title: 'Spirals in Hyperspace',
-    price: '$7.50',
-    tags: 'ABV: 9% | Imperial Stout aged w/ french oak spirals soaked in Brandy | 16 oz',
+    title: 'Anomaly IPA',
+    price: '$6.00',
+    tags: 'ABV: 7.1% | Classic american style IPA | 16 oz',
   },
   {
     title: 'Soulfire',
@@ -246,22 +256,22 @@ const beers = [
   },
 ];
 
-//updated 01.03.24
+//updated 02.02.24
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music by: Brooke & Kevin',
-    subtitle: 'Come enjoy some live music at our brewery - Brooke & Kevin Live on Saturday, January 6th, 2024 @ 7PM  & Friday, January 19th, 2024 @ 7PM | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some live music at our brewery - Brooke & Kevin Live on Friday, February 2nd, 2024 & Saturday, February 17th, 2024 @ 7PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, January 10th, 2024 @ 7PM, Music by: Max & The Magics | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, February 14th, 2024 @ 7PM, Music by: Stavia Abernatha & Sean Farley | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
-    title: 'Music by: Just Alright Band',
-    subtitle: 'Come enjoy some live music at our brewery - The Just Alright Band Live on Friday, January 26th, 2024 @ 7PM | Anomaly Craft Brewing',
+    title: 'Music by: Kerry Kenny Band',
+    subtitle: 'Come enjoy some live music at our brewery - The Kerry Kenny Band Live on Saturday, March 23rd, 2024 @ 7PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num4,
