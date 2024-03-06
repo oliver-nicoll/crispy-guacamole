@@ -224,9 +224,29 @@ const allbeers = [
   price: '$7.50',
   tags: 'ABV: 9% | Imperial Stout aged w/ french oak spirals soaked in Brandy | 16 oz',
 },
+{
+  title: 'Wheat Bier',
+  price: '$5',
+  tags: "ABV: 5% | German style hefeweizen | 16 oz"
+},
+{
+  title: 'Euclid Abbey',
+  price: '$6',
+  tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
+},
+{
+  title: 'Anomaly IPA',
+  price: '$6',
+  tags: 'ABV: 7.1% | Classic american style IPA | 16 oz',
+},
+{
+  title: 'Soulfire',
+  price: '$6',
+  tags: 'ABV: 7.7% | Winter spiced ale brewed w/ local honey, cinnamon & orange peel. Smooth & Warming | 16 oz',
+},
 ];
 
-//updated 02.02.24
+//updated 03.05.24
 
 const beers = [
  {
@@ -235,38 +255,38 @@ const beers = [
     tags: 'ABV: 5% | Crisp, light lager | 16 oz',
   },
   {
-    title: 'Wheat Bier',
-    price: '$5',
-    tags: "ABV: 5% | German style hefeweizen | 16 oz"
+    title: 'Criollo Porter',
+    price: '$6',
+    tags: "ABV: 6.4% | A rich and decadent porter infused with aromatic Madagascar Vanilla, house roasted cocoa nibs & Café Fresco cold brew  | 16 oz"
   },
   {
-    title: 'Euclid Abbey',
-    price: '$6',
-    tags: 'ABV: 7.5% | Belgian Styled Dubbel | 16 oz',
+    title: 'AFO Pilsner',
+    price: '$5',
+    tags: 'ABV: 5.1% | German malt and hops throughout make up this very crisp, balanced, easy drinking lager beer | 16 oz',
   },
   {
     title: 'Anomaly IPA',
     price: '$6',
-    tags: 'ABV: 7.1% | Classic american style IPA | 16 oz',
+    tags: 'ABV: 7% | Classic american style IPA | 16 oz',
   },
   {
-    title: 'Soulfire',
-    price: '$6',
-    tags: 'ABV: 7.7% | Winter spiced ale brewed w/ local honey, cinnamon & orange peel. Smooth & Warming | 16 oz',
+    title: 'Cold Brew Stout',
+    price: '$5',
+    tags: 'ABV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
   },
 ];
 
-//updated 02.02.24
+//updated 03.05.24
 const events = [
   {
     imgUrl: images.num1,
-    title: 'Music by: Brooke & Kevin',
-    subtitle: 'Come enjoy some live music at our brewery - Brooke & Kevin Live on Friday, February 2nd, 2024 & Saturday, February 17th, 2024 @ 7PM | Anomaly Craft Brewing',
+    title: 'Music: Coffeehouse Series',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, March 13th, 2024 @ 7PM, Music by: Clarence Spady & Tom Martin | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
-    title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, February 14th, 2024 @ 7PM, Music by: Stavia Abernatha & Sean Farley | Anomaly Craft Brewing',
+    title: 'Music by: Springtown Ramblers - Opener, Symphonic Haze - Main ',
+    subtitle: 'Come enjoy some live music by the Springtown Ramblers opening for a crowd favorite, Symphonic Haze at our brewery - Saturday, March 16th, 2024, Time: TBD | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
@@ -275,13 +295,13 @@ const events = [
   },
   {
     imgUrl: images.num4,
-    title: 'Music by: Autumn Falls Entertainment',
-    subtitle: 'Join us for some live music by Autumn Falls Entertainment at our brewery on Saturday, Febuary 24th @ 7PM| Anomaly Craft Brewing',
+    title: 'Music by: Tom Molinaro',
+    subtitle: 'Join us for some live music by Tom Molinaro at our brewery on Saturday, March 30th, 2024 @ 7PM| Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num5,
-    title: 'Trivia Nights w/ Alex Oliver',
-    subtitle: 'Join the FUN Every Thursday with our quiz master Alex Oliver - 6PM | Anomaly Craft Brewing',
+    title: 'Thursday Trivia Night',
+    subtitle: 'Join the FUN Every Thursday at Anomaly - 6PM. Grab those tables early, it fills up fast - no reservations | Anomaly Craft Brewing',
   },
 ];
 
