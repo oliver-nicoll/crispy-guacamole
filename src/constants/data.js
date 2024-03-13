@@ -246,13 +246,13 @@ const allbeers = [
 },
 ];
 
-//updated 03.05.24
+//updated 03.13.24
 
 const beers = [
  {
-    title: 'Helles',
+    title: 'Irish Red',
     price: '$5',
-    tags: 'ABV: 5% | Crisp, light lager | 16 oz',
+    tags: 'ABV: 5.3% | Lager - Smooth & Simple | 16 oz'
   },
   {
     title: 'Criollo Porter',
@@ -276,7 +276,7 @@ const beers = [
   },
 ];
 
-//updated 03.05.24
+//updated 03.13.24
 const events = [
   {
     imgUrl: images.num1,
