@@ -286,7 +286,7 @@ const events = [
   {
     imgUrl: images.num2,
     title: 'Music by: Springtown Ramblers - Opener, Symphonic Haze - Main ',
-    subtitle: 'Come enjoy some live music by the Springtown Ramblers opening for a crowd favorite, Symphonic Haze at our brewery - Saturday, March 16th, 2024, Time: TBD | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some live music by the Springtown Ramblers opening for a crowd favorite, Symphonic Haze at our brewery - Saturday, March 16th, 2024, Time: 5:30 PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
