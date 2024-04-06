@@ -244,59 +244,84 @@ const allbeers = [
   price: '$6',
   tags: 'ABV: 7.7% | Winter spiced ale brewed w/ local honey, cinnamon & orange peel. Smooth & Warming | 16 oz',
 },
-];
-
-//updated 03.13.24
-
-const beers = [
- {
+{
     title: 'Irish Red',
     price: '$5',
     tags: 'ABV: 5.3% | Lager - Smooth & Simple | 16 oz'
-  },
-  {
-    title: 'Criollo Porter',
-    price: '$6',
-    tags: "ABV: 6.4% | A rich and decadent porter infused with aromatic Madagascar Vanilla, house roasted cocoa nibs & Café Fresco cold brew  | 16 oz"
-  },
-  {
-    title: 'AFO Pilsner',
+},
+{
+  title: 'Criollo Porter',
+  price: '$6',
+  tags: "ABV: 6.4% | A rich and decadent porter infused with aromatic Madagascar Vanilla, house roasted cocoa nibs & Café Fresco cold brew  | 16 oz"
+},
+{
+  title: 'AFO Pilsner',
+  price: '$5',
+  tags: 'ABV: 5.1% | German malt and hops throughout make up this very crisp, balanced, easy drinking lager beer | 16 oz',
+},
+{
+  title: 'Anomaly IPA',
+  price: '$6',
+  tags: 'ABV: 7% | Classic american style IPA | 16 oz',
+},
+{
+  title: 'Cold Brew Stout',
+  price: '$5',
+  tags: 'ABV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
+},
+];
+
+//updated 04.05.24
+
+const beers = [
+ {
+    title: 'Old Oak',
     price: '$5',
-    tags: 'ABV: 5.1% | German malt and hops throughout make up this very crisp, balanced, easy drinking lager beer | 16 oz',
+    tags: 'ABV: 3% | Gratzer Style Beer - Light, Crisp, Hoppy, Smokey | 16 oz'
   },
   {
-    title: 'Anomaly IPA',
+    title: 'The Haze',
     price: '$6',
-    tags: 'ABV: 7% | Classic american style IPA | 16 oz',
+    tags: "ABV: 6.4% | Smooth & Silky | 16 oz"
   },
   {
-    title: 'Cold Brew Stout',
+    title: 'Cherry Weisse',
     price: '$5',
-    tags: 'ABV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
+    tags: 'ABV: 3.2% | Wheat based, kettle sour ale - fermented w/ sweet cherry puree | 16 oz',
+  },
+  {
+    title: 'Amberweizen',
+    price: '$5',
+    tags: 'ABV: 5% | German wheat beer | 16 oz',
+  },
+  {
+    title: 'Helles',
+    price: '$5',
+    tags: 'ABV: 5% | Crisp, light lager | 16 oz',
   },
 ];
 
-//updated 03.13.24
+//updated 04.05.24
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, March 13th, 2024 @ 7PM, Music by: Clarence Spady & Tom Martin | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, April 10th, 2024 @ 7PM, Music by: The Ann Kerstetter Band | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
-    title: 'Music by: Springtown Ramblers - Opener, Symphonic Haze - Main ',
-    subtitle: 'Come enjoy some live music by the Springtown Ramblers opening for a crowd favorite, Symphonic Haze at our brewery - Saturday, March 16th, 2024, Time: 5:30 PM | Anomaly Craft Brewing',
+    title: 'Music by: Brooke & Kevin ',
+    subtitle: 'Come enjoy some live music by Brooke & Kevin, a crowd favorite at our brewery - Friday, April 26th, 2024, Time: 7 PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
-    title: 'Music by: Kerry Kenny Band',
-    subtitle: 'Come enjoy some live music at our brewery - The Kerry Kenny Band Live on Saturday, March 23rd, 2024 @ 7PM | Anomaly Craft Brewing',
+    title: 'Music: Coffeehouse Series',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, May 8th, 2024 @ 7PM, Music by: Doug McMinn Trio| Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num4,
-    title: 'Music by: Tom Molinaro',
-    subtitle: 'Join us for some live music by Tom Molinaro at our brewery on Saturday, March 30th, 2024 @ 7PM| Anomaly Craft Brewing',
+    title: 'Music: Coffeehouse Series',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, June 12th, 2024 @ 7PM, Music by: Nate Myers Trio | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num5,
