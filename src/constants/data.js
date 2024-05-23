@@ -269,30 +269,50 @@ const allbeers = [
   price: '$5',
   tags: 'ABV: 4.2% | Coffee infused into a dark dry stout | 16 oz',
 },
+{
+  title: 'Old Oak',
+  price: '$5',
+  tags: 'ABV: 3% | Gratzer Style Beer - Light, Crisp, Hoppy, Smokey | 16 oz'
+},
+{
+  title: 'The Haze',
+  price: '$6',
+  tags: "ABV: 6.4% | Smooth & Silky | 16 oz"
+},
+{
+  title: 'Cherry Weisse',
+  price: '$5',
+  tags: 'ABV: 3.2% | Wheat based, kettle sour ale - fermented w/ sweet cherry puree | 16 oz',
+},
+{
+  title: 'Amberweizen',
+  price: '$5',
+  tags: 'ABV: 5% | German wheat beer | 16 oz',
+},
 ];
 
-//updated 04.05.24
+//updated 05.23.24
 
 const beers = [
- {
-    title: 'Old Oak',
+  {
+    title: 'Amarillo Gold',
     price: '$5',
-    tags: 'ABV: 3% | Gratzer Style Beer - Light, Crisp, Hoppy, Smokey | 16 oz'
+    tags: 'ABV: 5% | Pale Ale brewed w/ citrusy amarillo hops | 16 oz'
   },
   {
-    title: 'The Haze',
+    title: 'Rolling Hills Saison',
+    price: '$5',
+    tags: "ABV: 5.5% | Belgian-Style Farmhouse Ale, Crisp & Subtle | 16 oz"
+  },
+  {
+    title: 'Angels Wings IPA',
     price: '$6',
-    tags: "ABV: 6.4% | Smooth & Silky | 16 oz"
+    tags: 'ABV: 7.3% | Smooth, soft bitterness and full flavor | 16 oz',
   },
   {
-    title: 'Cherry Weisse',
+    title: 'Black Ruby',
     price: '$5',
-    tags: 'ABV: 3.2% | Wheat based, kettle sour ale - fermented w/ sweet cherry puree | 16 oz',
-  },
-  {
-    title: 'Amberweizen',
-    price: '$5',
-    tags: 'ABV: 5% | German wheat beer | 16 oz',
+    tags: 'ABV: 4.8% | Dark Lager | 16 oz',
   },
   {
     title: 'Helles',
@@ -306,17 +326,17 @@ const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, April 10th, 2024 @ 7PM, Music by: The Ann Kerstetter Band | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, August 14th, 2024 @ 7PM, Music by: The Pickups | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
-    title: 'Music by: Brooke & Kevin ',
-    subtitle: 'Come enjoy some live music by Brooke & Kevin, a crowd favorite at our brewery - Friday, April 26th, 2024, Time: 7 PM | Anomaly Craft Brewing',
+    title: 'Music by: Mike Silvetti ',
+    subtitle: 'Come enjoy some live music by Mike Silvetti - Every Friday, Time: 6 PM | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num3,
-    title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, May 8th, 2024 @ 7PM, Music by: Doug McMinn Trio| Anomaly Craft Brewing',
+    title: 'Beer Run Saturday | 1 Miler',
+    subtitle: 'Come enjoy a fun time & drink a cold one after completing our 1 miler - Every Saturday @ 10AM| Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num4,
