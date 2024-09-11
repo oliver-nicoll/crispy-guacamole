@@ -289,44 +289,79 @@ const allbeers = [
   price: '$5',
   tags: 'ABV: 5% | German wheat beer | 16 oz',
 },
+{
+  title: 'Rosa Salz',
+  price: '$5',
+  tags: "ABV: 4.2% | Gose Style, Kettle Sour Beer | 16 oz"
+},
+{
+  title: 'Amarillo Gold',
+  price: '$5',
+  tags: 'ABV: 5% | Pale Ale brewed w/ citrusy amarillo hops | 16 oz'
+},
+{
+  title: 'Rolling Hills Saison',
+  price: '$5',
+  tags: "ABV: 5.5% | Belgian-Style Farmhouse Ale, Crisp & Subtle | 16 oz"
+},
+{
+  title: 'Angels Wings IPA',
+  price: '$6',
+  tags: 'ABV: 7.3% | Smooth, soft bitterness and full flavor | 16 oz',
+},
+{
+  title: 'Black Ruby',
+  price: '$5',
+  tags: 'ABV: 4.8% | Dark Lager | 16 oz',
+},
+{
+  title: 'Helles',
+  price: '$5',
+  tags: 'ABV: 5% | Crisp, light lager | 16 oz',
+},
+{
+  title: 'The Haze',
+  price: '$6',
+  tags: 'ABV: 6.7% | Big Flavor, Big Aroma | 16 oz',
+},
 ];
 
-//updated 05.23.24
+//updated 09.11.24
 
 const beers = [
   {
-    title: 'Amarillo Gold',
+    title: 'Yellow Open Fields',
     price: '$5',
-    tags: 'ABV: 5% | Pale Ale brewed w/ citrusy amarillo hops | 16 oz'
+    tags: 'ABV: 4.5% | An American Cream Ale  | 16 oz'
   },
   {
-    title: 'Rolling Hills Saison',
-    price: '$5',
-    tags: "ABV: 5.5% | Belgian-Style Farmhouse Ale, Crisp & Subtle | 16 oz"
-  },
-  {
-    title: 'Angels Wings IPA',
+    title: 'Anomaly IPA',
     price: '$6',
-    tags: 'ABV: 7.3% | Smooth, soft bitterness and full flavor | 16 oz',
+    tags: 'ABV: 6.8% | Classic american style IPA | 16 oz',
   },
   {
-    title: 'Black Ruby',
+    title: 'Leaf Pile',
     price: '$5',
-    tags: 'ABV: 4.8% | Dark Lager | 16 oz',
+    tags: 'ABV: 3.5% | South english brown ale | 16 oz',
   },
   {
-    title: 'Helles',
+    title: '4th St Ale',
     price: '$5',
-    tags: 'ABV: 5% | Crisp, light lager | 16 oz',
+    tags: 'ABV: 5.3% | Wet hop ale, local hops | 16 oz',
+  },
+  {
+    title: 'Wheat Bier',
+    price: '$5',
+    tags: 'ABV: 5% | German-Style Hefeweizen. Full Body | 16 oz',
   },
 ];
 
-//updated 04.05.24
+//updated 09.10.24
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, August 14th, 2024 @ 7PM, Music by: The Pickups | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, September 11th, 2024 @ 7PM, Music by: Charles Havira or Wednesday, October 9th, 2024 @ 7PM, Music by: The Wild Hymns | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
@@ -340,8 +375,8 @@ const events = [
   },
   {
     imgUrl: images.num4,
-    title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, June 12th, 2024 @ 7PM, Music by: Nate Myers Trio | Anomaly Craft Brewing',
+    title: 'Bloomsburg Fair',
+    subtitle: 'Come enjoy the fair with us and our firetruck, right next to Project Pizza. Drink some non-alcoholic drinks right from our TapTruck: Butterbeer, Heller`s Cider or Pumpkin Chai Coldbrew - September 20th until the 28th. Located at the corner of 12th & C, Between Gate 3 & 4 | Anomaly Firetruck',
   },
   {
     imgUrl: images.num5,
