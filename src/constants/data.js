@@ -370,7 +370,7 @@ const events = [
   },
   {
     imgUrl: images.num3,
-    title: 'Beer Run Saturday | 1 Miler',
+    title: 'Beer Run Saturday | 1 Miler * Comes back in 2025! *',
     subtitle: 'Come enjoy a fun time & drink a cold one after completing our 1 miler - Every Saturday @ 10AM| Anomaly Craft Brewing',
   },
   {
