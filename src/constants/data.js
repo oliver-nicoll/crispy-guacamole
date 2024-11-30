@@ -326,42 +326,42 @@ const allbeers = [
 },
 ];
 
-//updated 09.11.24
+//updated 11.30.24
 
 const beers = [
   {
-    title: 'Yellow Open Fields',
-    price: '$5',
-    tags: 'ABV: 4.5% | An American Cream Ale  | 16 oz'
-  },
-  {
-    title: 'Anomaly IPA',
+    title: 'Streets of Bamburg',
     price: '$6',
-    tags: 'ABV: 6.8% | Classic american style IPA | 16 oz',
+    tags: 'ABV: 6.8% | A strong full bodied, smoked lager | 16 oz'
   },
   {
-    title: 'Leaf Pile',
-    price: '$5',
-    tags: 'ABV: 3.5% | South english brown ale | 16 oz',
+    title: 'Winter Warmer',
+    price: '$6',
+    tags: 'ABV: 6.7% | Deep amber, english style ale | 16 oz',
   },
   {
-    title: '4th St Ale',
-    price: '$5',
-    tags: 'ABV: 5.3% | Wet hop ale, local hops | 16 oz',
+    title: 'Pilsner Bock',
+    price: '$6',
+    tags: 'ABV: 6.5% | Loaded w/ 3 varieties of german hops | 16 oz',
   },
   {
-    title: 'Wheat Bier',
+    title: 'Angels Wings IPA',
+    price: '$6',
+    tags: 'ABV: 6.6% | Citrus forward IPA | 16 oz',
+  },
+  {
+    title: 'West Front Stout',
     price: '$5',
-    tags: 'ABV: 5% | German-Style Hefeweizen. Full Body | 16 oz',
+    tags: 'ABV: 4.8% | Dry irish style stout | 16 oz',
   },
 ];
 
-//updated 09.10.24
+//updated 11.30.24
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, September 11th, 2024 @ 7PM, Music by: Charles Havira or Wednesday, October 9th, 2024 @ 7PM, Music by: The Wild Hymns | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, December 11th, 2024 @ 7PM, Music by: Whiskey, Ash & Reverie | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
@@ -376,7 +376,7 @@ const events = [
   {
     imgUrl: images.num4,
     title: 'Bloomsburg Fair',
-    subtitle: 'Come enjoy the fair with us and our firetruck, right next to Project Pizza. Drink some non-alcoholic drinks right from our TapTruck: Butterbeer, Heller`s Cider or Pumpkin Chai Coldbrew - September 20th until the 28th. Located at the corner of 12th & C, Between Gate 3 & 4 | Anomaly Firetruck',
+    subtitle: 'Come enjoy the fair with us and our firetruck, right next to Project Pizza. Drink some non-alcoholic drinks right from our TapTruck: Butterbeer, Heller`s Cider or Pumpkin Chai Coldbrew - September 19th until the 27th, 2025. Located at the corner of 12th & C, Between Gate 3 & 4 | Anomaly Firetruck',
   },
   {
     imgUrl: images.num5,
