@@ -30,13 +30,28 @@ import pretz from '../assets/Pretzel.JPG';
 import pour from '../assets/Pour.JPG';
 import bbq from '../assets/BBQ.JPG';
 import fermenters from '../assets/Fermenters.JPG';
-
+import firet1 from '../assets/ANOMALY/Firetruck_Parade.JPG';
+import firet2 from '../assets/ANOMALY/Firetruck_Diamonds.JPG';
+import firet3 from '../assets/ANOMALY/Firetruck_Diamond2.JPG';
+import pizza1 from '../assets/ANOMALY/Pizza_Main.JPG';
+import pizza2 from '../assets/ANOMALY/Pizza_Main2.JPG';
+import pizza3 from '../assets/ANOMALY/Pizza_One.JPG';
+import pizza4 from '../assets/ANOMALY/Pizza_Two.JPG';
+import pizza5 from '../assets/ANOMALY/Pizza_Three.JPG';
 
 
 
 
 
 export default {
+  firet1,
+  firet2,
+  firet3,
+  pizza1,
+  pizza2,
+  pizza3,
+  pizza4,
+  pizza5,
   spoon,
   logo_main,
   hat_logo,
