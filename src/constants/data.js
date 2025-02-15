@@ -29,7 +29,7 @@ const coffees = [
   {
     title: 'COMING SOON: Wood Fired Pizza',
     price: '$14',
-    tags: 'WE TRIED IT, YOU LOVED IT AND WE ARE GETTING IT ADDED TO THE MENU PERMENANTLY. In the meantime come Friday/ Saturday to try our pizza',
+    tags: 'WE TRIED IT, YOU LOVED IT AND WE ARE GETTING IT ADDED TO THE MENU PERMENANTLY - THANKS TO PROJECT PIZZA FOR SHOWING US THE WAY. In the meantime come Friday/ Saturday to try our pizza',
   },
 ];
 
