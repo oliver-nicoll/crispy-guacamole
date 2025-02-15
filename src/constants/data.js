@@ -26,6 +26,11 @@ const coffees = [
     price: '$12',
     tags: 'Your choice of smoked meat on a roll | side of chips or upgrade your side',
   },
+  {
+    title: 'COMING SOON: Wood Fired Pizza',
+    price: '$14',
+    tags: 'WE TRIED IT, YOU LOVED IT AND WE ARE GETTING IT ADDED TO THE MENU PERMENANTLY. In the meantime come Friday/ Saturday to try our pizza',
+  },
 ];
 
 const allbeers = [
@@ -326,42 +331,62 @@ const allbeers = [
 },
 ];
 
-//updated 11.30.24
+//updated 02.14.2025
 
 const beers = [
   {
-    title: 'Streets of Bamburg',
-    price: '$6',
-    tags: 'ABV: 6.8% | A strong full bodied, smoked lager | 16 oz'
-  },
-  {
-    title: 'Winter Warmer',
-    price: '$6',
-    tags: 'ABV: 6.7% | Deep amber, english style ale | 16 oz',
-  },
-  {
-    title: 'Pilsner Bock',
-    price: '$6',
-    tags: 'ABV: 6.5% | Loaded w/ 3 varieties of german hops | 16 oz',
-  },
-  {
-    title: 'Angels Wings IPA',
-    price: '$6',
-    tags: 'ABV: 6.6% | Citrus forward IPA | 16 oz',
-  },
-  {
-    title: 'West Front Stout',
+    title: 'Helles',
     price: '$5',
-    tags: 'ABV: 4.8% | Dry irish style stout | 16 oz',
+    tags: 'ABV: 5% | Crisp, light lager | 16 oz',
+  },
+  {
+    title: 'Soulfire',
+    price: '$6',
+    tags: 'ABV: 7.5% | Winter spiced ale brewed w/ local honey, cinnamon & orange peel. Smooth & Warming | 16 oz',
+  },
+  {
+    title: 'Wheat Bier',
+    price: '$5',
+    tags: "ABV: 5.4% | German style hefeweizen | 16 oz"
+  },
+  {
+    title: 'Hyperspace',
+    price: '$7',
+    tags: 'ABV: 9.2% | Imperial Stout aged w/ french oak spirals soaked in Brandy | 16 oz',
+  },
+  {
+    title: 'Cozy Bones',
+    price: '$7',
+    tags: 'ABV: 8.7% | A strong dark wheat | 16 oz'
+  },
+  {
+    title: 'Hazy Sunrise',
+    price: '$5',
+    tags: 'ABV: 4.9% | Hazy pale ale | 16 oz',
+  },
+  {
+    title: 'Dunkel Lager',
+    price: '$5',
+    tags: 'ABV: 5.2% | Dark lager w/ a rich complex malt | 16 oz',
+  },
+  {
+    title: 'Salty Brownie',
+    price: '$6',
+    tags: 'ABV: 6% | Brown ale | 16 oz',
+  },
+  {
+    title: 'Plant Music',
+    price: '$6',
+    tags: 'ABV: 6.5% | West coast IPA | 16 oz',
   },
 ];
 
-//updated 11.30.24
+//updated 02.14.2025
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, December 11th, 2024 @ 7PM, Music by: Whiskey, Ash & Reverie | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on 1: Wednesday, March 12th, 2025 @ 7PM, Music by: Big Daddy Bone & 2:Wednesday, April 9th, 2025 @ 7PM, Music by: Deb Callahan Trio & 3: Wednesday, May 14th, 2025 @ 7PM, Music by: Allan Combs II | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,

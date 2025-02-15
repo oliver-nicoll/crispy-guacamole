@@ -12,7 +12,7 @@ const FindUs = () => (
       <div className="app__wrapper-content">
         <p className='p__opensans'>135 West Front St., Berwick, Pa 18603</p>
         <p className='app__footer-headtext' style={{ color: 'var(--color-crimson)', margin: '2rem 0'}}>Hours</p>
-        <p className='p__opensans'>Sunday: 12PM - 5PM *Limited Menu*</p>
+        <p className='p__opensans'>Sunday: Closed</p>
         <p className='p__opensans'>Monday: Closed</p>
         <p className='p__opensans'>Tuesday: Closed</p>
         <p className='p__opensans'>Wednesday: 12PM - 8PM</p>
