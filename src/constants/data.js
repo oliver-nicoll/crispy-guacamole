@@ -27,9 +27,9 @@ const coffees = [
     tags: 'Your choice of smoked meat on a roll | side of chips or upgrade your side',
   },
   {
-    title: 'COMING SOON: Wood Fired Pizza',
+    title: 'Wood Fired Pizza',
     price: '$14',
-    tags: 'WE TRIED IT, YOU LOVED IT AND WE ARE GETTING IT ADDED TO THE MENU PERMENANTLY - THANKS TO PROJECT PIZZA FOR SHOWING US THE WAY. In the meantime come Friday/ Saturday to try our pizza',
+    tags: 'Come see us Fridays to eat our irresistable pizza. Pizza will be available daily once we train out staff, please bare with us.',
   },
 ];
 
