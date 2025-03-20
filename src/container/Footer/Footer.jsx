@@ -35,9 +35,9 @@ const Footer = () => (
         <p className="p__opensans">Wednesday/ Thursday:</p>
         <p className="p__opensans">12:00 pm - 08:00 pm</p>
         <p className="p__opensans">Friday:</p>
-        <p className="p__opensans">12:00 pm - 10:00 pm</p>
+        <p className="p__opensans">12:00 pm - 09:00 pm</p>
         <p className="p__opensans">Saturday:</p>
-        <p className="p__opensans">09:00 am - 10:00 pm</p>
+        <p className="p__opensans">09:00 am - 09:00 pm</p>
       </div>
     </div>
 
