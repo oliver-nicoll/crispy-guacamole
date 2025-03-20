@@ -329,9 +329,19 @@ const allbeers = [
   price: '$6',
   tags: 'ABV: 6.7% | Big Flavor, Big Aroma | 16 oz',
 },
+{
+  title: 'Hazy Sunrise',
+  price: '$5',
+  tags: 'ABV: 4.9% | Hazy pale ale | 16 oz',
+},
+{
+  title: 'Dunkel Lager',
+  price: '$5',
+  tags: 'ABV: 5.2% | Dark lager w/ a rich complex malt | 16 oz',
+},
 ];
 
-//updated 02.14.2025
+//updated 03.20.2025
 
 const beers = [
   {
@@ -360,14 +370,14 @@ const beers = [
     tags: 'ABV: 8.7% | A strong dark wheat | 16 oz'
   },
   {
-    title: 'Hazy Sunrise',
+    title: 'Bambeano Stout',
     price: '$5',
-    tags: 'ABV: 4.9% | Hazy pale ale | 16 oz',
+    tags: 'ABV: 5.7% | Coffee Stout aged w/ caffe fresco - Guatemalan whole beans | 16 oz',
   },
   {
-    title: 'Dunkel Lager',
+    title: 'Irish Red',
     price: '$5',
-    tags: 'ABV: 5.2% | Dark lager w/ a rich complex malt | 16 oz',
+    tags: 'ABV: 5.2% | Deep red lager, sublte flavors of toast, caramel and toffee | 16 oz',
   },
   {
     title: 'Salty Brownie',
@@ -381,12 +391,12 @@ const beers = [
   },
 ];
 
-//updated 02.14.2025
+//updated 03.20.2025
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on 1: Wednesday, March 12th, 2025 @ 7PM, Music by: Big Daddy Bone & 2:Wednesday, April 9th, 2025 @ 7PM, Music by: Deb Callahan Trio & 3: Wednesday, May 14th, 2025 @ 7PM, Music by: Allan Combs II | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, April 9th, 2025 @ 7PM, Music by: Deb Callahan Trio & 2: Wednesday, May 14th, 2025 @ 7PM, Music by: Allan Combs II | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
@@ -395,7 +405,7 @@ const events = [
   },
   {
     imgUrl: images.num3,
-    title: 'Beer Run Saturday | 1 Miler * Comes back in 2025! *',
+    title: 'Beer Run Saturday | 1 Miler - Officially Starts: 04/05 ',
     subtitle: 'Come enjoy a fun time & drink a cold one after completing our 1 miler - Every Saturday @ 10AM| Anomaly Craft Brewing',
   },
   {
