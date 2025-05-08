@@ -339,9 +339,24 @@ const allbeers = [
   price: '$5',
   tags: 'ABV: 5.2% | Dark lager w/ a rich complex malt | 16 oz',
 },
+{
+  title: 'Irish Red',
+  price: '$5',
+  tags: 'ABV: 5.2% | Deep red lager, sublte flavors of toast, caramel and toffee | 16 oz',
+},
+{
+  title: 'Plant Music',
+  price: '$6',
+  tags: 'ABV: 6.5% | West coast IPA | 16 oz',
+},
+{
+  title: 'Salty Brownie',
+  price: '$6',
+  tags: 'ABV: 6% | Brown ale | 16 oz',
+},
 ];
 
-//updated 03.20.2025
+//updated 05.08.2025
 
 const beers = [
   {
@@ -350,14 +365,14 @@ const beers = [
     tags: 'ABV: 5% | Crisp, light lager | 16 oz',
   },
   {
-    title: 'Soulfire',
-    price: '$6',
-    tags: 'ABV: 7.5% | Winter spiced ale brewed w/ local honey, cinnamon & orange peel. Smooth & Warming | 16 oz',
+    title: 'Amarillo Gold',
+    price: '$5',
+    tags: 'ABV: 5.4% | Pale Ale brewed w/ citrusy amarillo hops | 16 oz'
   },
   {
-    title: 'Wheat Bier',
+    title: 'AFO Pilsner',
     price: '$5',
-    tags: "ABV: 5.4% | German style hefeweizen | 16 oz"
+    tags: 'ABV: 5.2% | Fruity, Spicy, Full Bodied - German Style Pilsner | 16 oz',
   },
   {
     title: 'Hyperspace',
@@ -365,38 +380,39 @@ const beers = [
     tags: 'ABV: 9.2% | Imperial Stout aged w/ french oak spirals soaked in Brandy | 16 oz',
   },
   {
-    title: 'Cozy Bones',
-    price: '$7',
-    tags: 'ABV: 8.7% | A strong dark wheat | 16 oz'
-  },
-  {
-    title: 'Bambeano Stout',
+    title: 'Rauchbier',
     price: '$5',
-    tags: 'ABV: 5.7% | Coffee Stout aged w/ caffe fresco - Guatemalan whole beans | 16 oz',
+    tags: 'ABV: 5.4% | Bamburg style lager, decoction mashed w/ munich & beechwood smoked malt | 16 oz',
   },
   {
-    title: 'Irish Red',
+    title: 'Angels Wings Ipa',
+    price: '$6',
+    tags: 'ABV: 6.8% | Hazy IPA, tropical, citrusy & juicey | 16 oz',
+  },
+  {
+    title: 'Vienna Lager',
     price: '$5',
-    tags: 'ABV: 5.2% | Deep red lager, sublte flavors of toast, caramel and toffee | 16 oz',
+    tags: 'ABV: 5.2% | Amber lager - Clean, dry finish | 16 oz',
   },
   {
-    title: 'Salty Brownie',
+    title: 'Orange Blossom Blonde',
     price: '$6',
-    tags: 'ABV: 6% | Brown ale | 16 oz',
+    tags: 'ABV: 7.2% | Spicy, Fruity, Belgium Ale | 16 oz',
   },
   {
-    title: 'Plant Music',
-    price: '$6',
-    tags: 'ABV: 6.5% | West coast IPA | 16 oz',
+    title: 'Willowtree White',
+    price: '$5',
+    tags: 'ABV: 7.2% | Belgian Styled White | 16 oz',
   },
+ 
 ];
 
-//updated 03.20.2025
+//updated 05.08.2025
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, April 9th, 2025 @ 7PM, Music by: Deb Callahan Trio & 2: Wednesday, May 14th, 2025 @ 7PM, Music by: Allan Combs II | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, May 14th, 2025 @ 7PM, Music by: The Alternative & 2: Wednesday, June 11th, 2025 @ 7PM, Music by: Stew Cutler | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
