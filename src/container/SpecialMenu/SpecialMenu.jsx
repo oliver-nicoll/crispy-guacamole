@@ -3,7 +3,7 @@ import React from 'react';
 import { SubHeading, MenuItem } from '../../components';
 import { images, data } from '../../constants'
 import './SpecialMenu.css';
-import menudoc from '../../assets/ANOMALY/anomaly menu.pdf';
+import menudoc from '../../assets/ANOMALY/Anomaly Menu 2025.pdf';
 
 const SpecialMenu = () => (
   <div className='app__specialMenu flex__center section__padding' id='menu'>
