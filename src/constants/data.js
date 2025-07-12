@@ -354,12 +354,7 @@ const allbeers = [
   price: '$6',
   tags: 'ABV: 6% | Brown ale | 16 oz',
 },
-];
-
-//updated 05.08.2025
-
-const beers = [
-  {
+{
     title: 'Helles',
     price: '$5',
     tags: 'ABV: 5% | Crisp, light lager | 16 oz',
@@ -404,15 +399,55 @@ const beers = [
     price: '$5',
     tags: 'ABV: 7.2% | Belgian Styled White | 16 oz',
   },
+];
+
+//updated 07.11.2025
+
+const beers = [
+  {
+    title: 'Rauch Bier',
+    price: '$5',
+    tags: 'ABV: 5.4% | Bamberg-style Smoked Lager | 16 oz',
+  },
+  {
+    title: 'Dirt',
+    price: '$5',
+    tags: 'ABV: 5.2% | American Brown Ale | 16 oz'
+  },
+  {
+    title: 'Yellow Open Fields',
+    price: '$5',
+    tags: 'ABV: 4.8% | American Cream Ale | 16 oz',
+  },
+  {
+    title: 'Rubus Dream',
+    price: '$6',
+    tags: 'ABV: 5% | Raspberry Sour Ale | 16 oz',
+  },
+  {
+    title: 'Rolling Hills Saison',
+    price: '$5',
+    tags: 'ABV: 5.2% | Belgian-style Ale | 16 oz',
+  },
+  {
+    title: 'Angels Wings IPA',
+    price: '$6',
+    tags: 'ABV: 6.9% | Mango Hazy IPA | 16 oz',
+  },
+  {
+    title: 'Rosa Salz',
+    price: '$5',
+    tags: 'ABV: 4.5% | Sour German Wheat Ale | 16 oz',
+  },
  
 ];
 
-//updated 05.08.2025
+//updated 07.11.2025
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, May 14th, 2025 @ 7PM, Music by: The Alternative & 2: Wednesday, June 11th, 2025 @ 7PM, Music by: Stew Cutler | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, August 13th, 2025 @ 7PM, Music by: Tom Storm & 2: Wednesday, September 10th, 2025 @ 7PM, Music by: Johnny Burgin & 3: Wednesday, October 8th, 2025 @ 7PM, Music by: The Molly`s Boys Jug Band | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
@@ -421,7 +456,7 @@ const events = [
   },
   {
     imgUrl: images.num3,
-    title: 'Beer Run Saturday | 1 Miler - Officially Starts: 04/05 ',
+    title: 'Beer Run Saturday | 1 Miler - Every Saturday Morning ',
     subtitle: 'Come enjoy a fun time & drink a cold one after completing our 1 miler - Every Saturday @ 10AM| Anomaly Craft Brewing',
   },
   {
