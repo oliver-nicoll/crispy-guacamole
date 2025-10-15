@@ -399,11 +399,6 @@ const allbeers = [
     price: '$5',
     tags: 'ABV: 7.2% | Belgian Styled White | 16 oz',
   },
-];
-
-//updated 07.11.2025
-
-const beers = [
   {
     title: 'Rauch Bier',
     price: '$5',
@@ -439,15 +434,84 @@ const beers = [
     price: '$5',
     tags: 'ABV: 4.5% | Sour German Wheat Ale | 16 oz',
   },
- 
+   {
+  title: 'Amarillo Gold',
+  price: '$5',
+  tags: 'ABV: 5.5% | Pale Ale brewed w/ citrusy amarillo hops | 16 oz'
+  },
+  {
+  title: 'Anomaly IPA',
+  price: '$6',
+  tags: 'ABV: 7.2% | Classic american style IPA | 16 oz',
+  },
+  {
+    title: 'Willowtree White',
+    price: '$5',
+    tags: 'ABV: 5% | Belgian Styled White | 16 oz',
+  },
+  {
+    title: 'Criollo Stout',
+    price: '$5',
+    tags: 'ABV: 5.6% | Rich, malty stout brewed with cafe fresco coffee, vanilla beans and cacao nibs | 16 oz',
+  },
+  {
+    title: 'Yellow Open Fields',
+    price: '$5',
+    tags: 'ABV: 4.8% | American Cream Ale | 16 oz',
+  },
+  {
+    title: 'Riverside Rye',
+    price: '$5',
+    tags: 'ABV: 5% | Amber Lager brewed w/ Rye Malt | 16 oz',
+  },
+  {
+    title: 'Orange Blossom Blonde',
+    price: '$6',
+    tags: 'ABV: 7.2% | Spicy, Fruity, Belgium Ale | 16 oz',
+  },
+  {
+    title: 'Coming Soon:',
+    price: 'xx',
+    tags: 'ABV: xx% | Come try our beer | 16 oz',
+  },
 ];
 
-//updated 07.11.2025
+//updated 10.15.2025
+
+const beers = [
+  {
+    title: 'Helles',
+    price: '$5',
+    tags: 'ABV: 5% | Crisp, light lager | 16 oz',
+  },
+ {
+    title: 'AFO Pilsner',
+    price: '$5',
+    tags: 'ABV: 5.1% | Fruity, Spicy, Full Bodied - German Style Pilsner | 16 oz',
+  },
+  {
+    title: 'Squash Patch',
+    price: '$5',
+    tags: 'ABV: 6% | Pumpkin Ale | 16 oz',
+  },
+  {
+    title: 'Hazy Mirage',
+    price: '$5',
+    tags: 'ABV: 5.7% | Tangerine Infused Hazy Pale Ale | 16 oz',
+  },
+  {
+    title: 'Leaf Pile Brown',
+    price: '$5',
+    tags: 'ABV: 4.5% | Rich, Malty - Sweet English Style Brown Ale | 16 oz',
+  },
+];
+
+//updated 10.15.2025
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, August 13th, 2025 @ 7PM, Music by: Tom Storm & 2: Wednesday, September 10th, 2025 @ 7PM, Music by: Johnny Burgin & 3: Wednesday, October 8th, 2025 @ 7PM, Music by: The Molly`s Boys Jug Band | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, October 22, 2025 @ 7PM, Music by: Kuf Knotz & Christine Elise | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
