@@ -1,7 +1,7 @@
 import React from 'react';
 import { images } from '../../constants'
 import './AboutUs.css';
-import TeamPic from '../../assets/Team2023.png'
+import TeamPic from '../../assets/Meet Our Team.png'
 
 
 const AboutUs = () => (

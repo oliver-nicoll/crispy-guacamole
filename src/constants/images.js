@@ -38,6 +38,7 @@ import pizza2 from '../assets/ANOMALY/Pizza_Main2.JPG';
 import pizza3 from '../assets/ANOMALY/Pizza_One.JPG';
 import pizza4 from '../assets/ANOMALY/Pizza_Two.JPG';
 import pizza5 from '../assets/ANOMALY/Pizza_Three.JPG';
+import team26 from '../assets/Meet Our Team.png'
 
 
 
@@ -83,4 +84,5 @@ export default {
   pour,
   bbq,
   fermenters,
+  team26,
 };
