@@ -27,9 +27,9 @@ const coffees = [
     tags: 'Your choice of smoked meat on a roll | side of chips or upgrade your side',
   },
   {
-    title: 'Wood Fired Pizza',
-    price: '$14',
-    tags: 'Come see us Fridays to eat our irresistable pizza. Pizza will be available daily once we train out staff, please bare with us.',
+    title: 'Truffle Parm Cheese Sticks',
+    price: '$11',
+    tags: 'Our dough cut into sticks topped with whole milk mozzarella, white truffle oil, aged parmigiano reggiano & chopped parsley',
   },
 ];
 
@@ -474,17 +474,7 @@ const allbeers = [
     price: 'xx',
     tags: 'ABV: xx% | Come try our beer | 16 oz',
   },
-];
-
-//updated 10.15.2025
-
-const beers = [
   {
-    title: 'Helles',
-    price: '$5',
-    tags: 'ABV: 5% | Crisp, light lager | 16 oz',
-  },
- {
     title: 'AFO Pilsner',
     price: '$5',
     tags: 'ABV: 5.1% | Fruity, Spicy, Full Bodied - German Style Pilsner | 16 oz',
@@ -506,12 +496,23 @@ const beers = [
   },
 ];
 
+//updated 01.03.2026
+
+const beers = [
+  {
+    title: 'Come Visit Our Ever Changing Crafts',
+    price: 'Ranging anywhere from $5 up',
+    tags: 'ABV: Always a Good Time | Pale Ales, Lagers, Stouts and try our First NA Beer - While Supplies Last | 5 oz or 16 oz',
+  },
+ 
+];
+
 //updated 10.15.2025
 const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on Wednesday, October 22, 2025 @ 7PM, Music by: Kuf Knotz & Christine Elise | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on every 2nd Wednesday of each month. Check our Facebook Events for more info. | Anomaly Craft Brewing',
   },
   {
     imgUrl: images.num2,
@@ -526,7 +527,7 @@ const events = [
   {
     imgUrl: images.num4,
     title: 'Bloomsburg Fair',
-    subtitle: 'Come enjoy the fair with us and our firetruck, right next to Project Pizza. Drink some non-alcoholic drinks right from our TapTruck: Butterbeer, Heller`s Cider or Pumpkin Chai Coldbrew - September 19th until the 27th, 2025. Located at the corner of 12th & C, Between Gate 3 & 4 | Anomaly Firetruck',
+    subtitle: 'Come enjoy the fair with us and our firetruck, right next to Project Pizza. Drink some non-alcoholic drinks right from our TapTruck: Butterbeer, Heller`s Cider or Pumpkin Chai Coldbrew - September 25th until October 3, 2026. Located at the corner of 12th & C, Between Gate 3 & 4 | Anomaly Firetruck',
   },
   {
     imgUrl: images.num5,
