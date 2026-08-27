@@ -31,9 +31,9 @@ const Gallery = () => {
         <SubHeading title="Anomaly Craft Brewing" />
         <h1 className='headtext__cormorant'>Photo Gallery</h1>
         <p className="p__opensans" style={{ color: '#AAA', marginTop: '2rem'}}>
-          Come see what we are up to! Follow us on Instagram or Facebook: @anomalycraftbrewing
+          Come see what we are up to! Follow us on Instagram or Facebook: @anomalycraftbrewing & @anomalyxrebz
         </p>
-        <a href="https://www.instagram.com/anomalycraftbrewing/" target='_blank'>
+        <a href="https://www.instagram.com/anomalycraftbrewing/" target='_blank' rel="noreferrer">
           <button type='button' className='custom__button'>View More</button>
         </a>
       </div>

@@ -1,4 +1,4 @@
-.app__footer-headtext {
+.app__findus-headtext {
     font-family: var(--font-base);
     color: var(--color-gray);
     font-weight: 400;
@@ -8,3 +8,68 @@
     line-height: 41.6px;
     margin-bottom: 1rem;
 }
+.app__findus-subheadtext{
+       font-family: var(--font-base);
+    color: var(--color-golden);
+    font-weight: 200;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-size: 18px;
+    line-height: 41.6px;
+    margin-top: 3em;
+}
+.app__findus-subheadtext2 {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    font-weight: 200;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-size: 18px;
+    line-height: 41.6px;
+    margin-top: 3em;
+}
+.app__findus-berwick {
+   margin-right: 3em;
+}
+.app__findus-williamsport {
+    text-align: right;
+    float: right;
+    margin-left: 3em;
+   
+}
+.app__wrapper_info2{
+    flex-direction:row;
+    width: 100%;
+}
+
+.app__wrapper-inside {
+   flex-direction:row;
+   width: 100%;
+   display: flex;
+   margin-top: 10em;
+    
+}
+.img_logo_1 {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* margin-left: 2rem; */
+    width: 100%;  /* Scales the width to exactly 300 pixels */
+    height:175px ;
+
+}
+
+.img_logo_2 {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* margin-left: 2rem; */
+    width: 100%;  /* Scales the width to exactly 300 pixels */
+    height:160px ;
+    margin-top: 5em;
+
+}
+
+

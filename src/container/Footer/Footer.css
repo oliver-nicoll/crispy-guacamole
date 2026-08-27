@@ -37,7 +37,7 @@
 
 
 .app__footer-links_work p:nth-child(2n + 1) {
-    margin-bottom: 1rem;
+    line-height: 2rem;
 }
 
 .app__footer-links_icons {
@@ -66,6 +66,21 @@
     margin-bottom: 1rem;
 }
 
+.app__footer-subheadtext {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    font-weight: 200;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-size: 18px;
+    line-height: 41.6px;
+}
+
+.app__footer-section {
+    column-count: 2;
+    column-gap: 4em;
+}
+
 .footer__copyright {
     margin-top: 3rem;
 }
@@ -85,11 +100,12 @@
     }
 
     .app__footer-links_contact,
-    .app__footer-links_logo,
-    .app__footer-links_work {
+    .app__footer-links_logo, .app__footer-links_work
+   {
         margin: 2rem 0;
         width: 100%;
     }
+
 }
 
 @media screen and (max-width: 650px) {

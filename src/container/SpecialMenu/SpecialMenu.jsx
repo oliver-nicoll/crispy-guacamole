@@ -9,16 +9,16 @@ import menudoc from '../../assets/ANOMALY/Anomaly Craft Brewing Menu 2026.pdf';
 const SpecialMenu = () => (
   <div className='app__specialMenu flex__center section__padding' id='menu'>
     <div className="app__specialMenu-title">
-      <SubHeading title="Menu that fits your palette" />
-      <h1 className='headtext__cormorant'> Today's Special</h1>
+      <SubHeading title="Drinks that fits your palette" />
+      <h1 className='headtext__cormorant'> Craft Beer</h1>
     </div>
 
     <div className="app__specialMenu-menu">
       <div className="app__specialMenu-menu_coffee flex__center">
         <p className='app__specialMenu-menu_heading'>All Time Favorites</p>
         <div className="app__specialMenu-menu_items">
-          {data.coffees.map((coffee, index) => (
-            <MenuItem key={coffee.title + index} title={coffee.title} price={coffee.price} tags={coffee.tags}/>
+          {data.alltimefavbeer.map((favbeer, index) => (
+            <MenuItem key={favbeer.title + index} title={favbeer.title} price={favbeer.price} tags={favbeer.tags}/>
 
           ))}
         </div>
@@ -39,9 +39,9 @@ const SpecialMenu = () => (
 
     </div>
 
-    <div style={{marginTop: '15px'}}>
+    {/* <div style={{marginTop: '15px'}}>
     <a href={menudoc} download="Anomaly Menu" target="_blank"><button type='button' className="custom__button">Food Menu</button></a>
-    </div>
+    </div> */}
   </div>
 );
 

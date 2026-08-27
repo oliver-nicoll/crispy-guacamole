@@ -38,13 +38,16 @@ import pizza2 from '../assets/ANOMALY/Pizza_Main2.JPG';
 import pizza3 from '../assets/ANOMALY/Pizza_One.JPG';
 import pizza4 from '../assets/ANOMALY/Pizza_Two.JPG';
 import pizza5 from '../assets/ANOMALY/Pizza_Three.JPG';
-import team26 from '../assets/Meet Our Team.png'
+import team26 from '../assets/Meet Our Team.png';
+import anomalyxrebz from '../assets/ANOMALY/Food/Anomaly X Rebz T.png';
+import AnomalyFamTruck from '../assets/FamilyAnomalyFiretruck.JPG';
 
 
 
 
 
 export default {
+  AnomalyFamTruck,
   firet1,
   firet2,
   firet3,
@@ -55,6 +58,7 @@ export default {
   pizza5,
   spoon,
   logo_main,
+  anomalyxrebz,
   hat_logo,
   food1,
   cup,

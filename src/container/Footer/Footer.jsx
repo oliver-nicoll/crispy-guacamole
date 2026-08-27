@@ -13,8 +13,13 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
+        <h3 className='app__footer-subheadtext'> Berwick Location</h3>
         <p className="p__opensans">135 West Front Street, Berwick, Pa</p>
         <p className="p__opensans">+1-570-752-3522</p>
+
+        <h3 className='app__footer-subheadtext'> Williamsport Location</h3>
+        <p className="p__opensans">913 Arch Street, Williamsport, Pa</p>
+        <p className="p__opensans">+1-570-447-2928</p>
       </div>
 
       <div className="app__footer-links_logo">
@@ -29,15 +34,28 @@ const Footer = () => (
       </div>
 
       <div className="app__footer-links_work">
-        <h1 className="app__footer-headtext">Working Hours</h1>
-        <p className="p__opensans">Sunday/Monday/Tuesday:</p>
-        <p className="p__opensans">CLOSED.</p>
-        <p className="p__opensans">Wednesday/ Thursday:</p>
-        <p className="p__opensans">12:00 pm - 08:00 pm</p>
-        <p className="p__opensans">Friday:</p>
-        <p className="p__opensans">12:00 pm - 09:00 pm</p>
-        <p className="p__opensans">Saturday:</p>
-        <p className="p__opensans">09:00 am - 09:00 pm</p>
+         <h1 className="app__footer-headtext">Working Hours</h1>
+          <section className='app__footer-section'>
+            <h3 className='app__footer-subheadtext'> Berwick Location</h3>
+            <p className="p__opensans">Sunday/Monday/Tuesday:</p>
+            <p className="p__opensans">CLOSED.</p>
+            <p className="p__opensans">Wednesday/ Thursday:</p>
+            <p className="p__opensans">12:00 pm - 08:00 pm</p>
+            <p className="p__opensans">Friday:</p>
+            <p className="p__opensans">12:00 pm - 09:00 pm</p>
+            <p className="p__opensans">Saturday:</p>
+            <p className="p__opensans">09:00 am - 09:00 pm</p>
+            
+            <h3 className='app__footer-subheadtext'> Williamsport Location</h3>
+            <p className="p__opensans">Sunday/Monday/Tuesday:</p>
+            <p className="p__opensans">CLOSED.</p>
+            <p className="p__opensans">Wednesday/ Thursday:</p>
+            <p className="p__opensans">04:00 pm - 08:00 pm</p>
+            <p className="p__opensans">Friday:</p>
+            <p className="p__opensans">12:00 pm - 09:00 pm</p>
+            <p className="p__opensans">Saturday:</p>
+            <p className="p__opensans">12:00 pm - 09:00 pm</p>
+          </section>
       </div>
     </div>
 

@@ -31,13 +31,13 @@
     /* padding-left: 2em; */
 }
 .app__aboutus-content_about h1 {
-    align-self: flex-start;
-    margin-left: 52%;
+    align-self: center;
+    /* margin-left: 52%; */
 }
 
 .app__aboutus-content_history h1 {
-    align-self: flex-start;
-    margin-right: 30%;
+    align-self: center;
+    /* margin-right: 30%; */
 }
 
 .app__aboutus-content_btn {

@@ -1,35 +1,30 @@
 import images from './images';
 
-const coffees = [
+const alltimefavbeer = [
   {
-    title: 'Breakfast Sandwich',
-    price: '$12',
-    tags: "Delicious & offered all day! The perfect, mouth watering brekkie option.",
+    title: 'Helles',
+    price: '',
+    tags: "All you lager lovers NEED to try this",
   },
   {
-    title: 'Pretzel & Beer Cheese',
-    price: '$11',
-    tags: "Soft pretzel served w/ our homemade beer cheese",
+    title: 'Willowtree White',
+    price: '',
+    tags: "Belguim Style White Ale that is refreshing and perfect for the summer.",
   },
   {
-    title: 'Nachos',
-    price: '$11',
-    tags: 'Salsa, beer cheese, jalapeños, olives',
+    title: 'Rubus Dream ',
+    price: '',
+    tags: 'To our sour lovers out there, Must Try ',
   },
   {
-    title: 'Quesadilla',
-    price: '$11',
-    tags: 'Tortillas, sharp cheese, spinach, jalapeños, beer cheese, side of chips & salsa',
+    title: 'NA Pale Ale',
+    price: '',
+    tags: 'Yes, we do produce an NA option!',
   },
   {
-    title: 'Smoked Brisket/Pork/Chicken Sandwich',
-    price: '$12',
-    tags: 'Your choice of smoked meat on a roll | side of chips or upgrade your side',
-  },
-  {
-    title: 'Truffle Parm Cheese Sticks',
-    price: '$11',
-    tags: 'Our dough cut into sticks topped with whole milk mozzarella, white truffle oil, aged parmigiano reggiano & chopped parsley',
+    title: 'Criollo Porter',
+    price: '',
+    tags: 'Rich & Decadent - Porter infused w/ cocoa nibs & vinilla beans',
   },
 ];
 
@@ -501,8 +496,8 @@ const allbeers = [
 const beers = [
   {
     title: 'Come Visit Our Ever Changing Crafts',
-    price: 'Ranging anywhere from $5 up',
-    tags: 'ABV: Always a Good Time | Pale Ales, Lagers, Stouts and try our First NA Beer - While Supplies Last | 5 oz or 16 oz',
+    price: 'Taproom Locations: Williamsport, Pa & Berwick, Pa',
+    tags: 'Always a Good Time | Pale Ales, Lagers, Stouts and try our First NA Beer - While Supplies Last | 5 oz or 16 oz',
   },
  
 ];
@@ -512,17 +507,17 @@ const events = [
   {
     imgUrl: images.num1,
     title: 'Music: Coffeehouse Series',
-    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on every 2nd Wednesday of each month. Check our Facebook Events for more info. | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some grand music, drink a cold one and munch on our delicious food on every 2nd Wednesday of each month. Check our Facebook Events for more info. | Anomaly Craft Brewing - Berwick Location',
   },
   {
     imgUrl: images.num2,
     title: 'Music by: Mike Silvetti ',
-    subtitle: 'Come enjoy some live music by Mike Silvetti - Every Friday, Time: 6 PM | Anomaly Craft Brewing',
+    subtitle: 'Come enjoy some live music by Mike Silvetti - Every Friday, Time: 6 PM | Anomaly Craft Brewing - Berwick Location',
   },
   {
     imgUrl: images.num3,
     title: 'Beer Run Saturday | 1 Miler - Every Saturday Morning ',
-    subtitle: 'Come enjoy a fun time & drink a cold one after completing our 1 miler - Every Saturday @ 10AM| Anomaly Craft Brewing',
+    subtitle: 'Come enjoy a fun time & drink a cold one after completing our 1 miler - Every Saturday @ 10AM| Anomaly Craft Brewing - Berwick Location',
   },
   {
     imgUrl: images.num4,
@@ -531,8 +526,8 @@ const events = [
   },
   {
     imgUrl: images.num5,
-    title: 'Thursday Trivia Night',
-    subtitle: 'Join the FUN Every Thursday at Anomaly - 6PM. Grab those tables early, it fills up fast - no reservations | Anomaly Craft Brewing',
+    title: 'Berwick Thursday Trivia Night',
+    subtitle: 'Join the FUN Every Thursday at Anomaly in Berwick, Pa - 6PM. Grab those tables early, it fills up fast - no reservations. Williamsport Location Trivia coming SOON! | Anomaly Craft Brewing - Berwick, Pa',
   },
 ];
 
@@ -569,4 +564,4 @@ const mugClubInfo = [
   },
 ]
 
-export default { coffees, beers, events, mugClubInfo };
+export default { alltimefavbeer, beers, events, mugClubInfo };

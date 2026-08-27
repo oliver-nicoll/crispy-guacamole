@@ -28,7 +28,8 @@ const Navbar = () => {
     <div className="app__navbar-login">
       {/* <a href="https://anomalycraftbrewing.square.site" target="_blank" className='p__opensans'>Order Online</a> */}
       <div/>
-      <a href="tel:+1570-752-3522" className='p__opensans'>Book Table</a>
+      {/* <li className="p__opensans"><a href="tel:+1570-447-2928" >Book Table Williamsport</a></li>
+      <li className='p__opensans'><a href="tel:+1570-752-3522">Book Table Berwick</a></li> */}
     </div>
     <div className="app__navbar-smallscrean">
       <GiHamburgerMenu color="var(--color-black)" fontSize={27} onClick={menuToggle} />
@@ -43,8 +44,8 @@ const Navbar = () => {
             {/* <li className="p__opensans"><a href="#mugclub">Mug Club</a></li> */}
             <li className="p__opensans"><a href="#events">Events</a></li>
             <li className="p__opensans"><a href="#contact">Contact</a></li>
-            {/* <li className="p__opensans"><a href="https://anomalycraftbrewing.square.site" target="_blank">Order Online</a></li> */}
-            <li className='p__opensans'><a href="tel:+1570-752-3522">Book Table</a></li>
+            <li className="p__opensans"><a href="tel:+1570-447-2928" >Book Table Williamsport</a></li>
+            <li className='p__opensans'><a href="tel:+1570-752-3522">Book Table Berwick</a></li>
           </ul>
         </div>
         )}

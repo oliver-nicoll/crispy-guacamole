@@ -3,12 +3,14 @@
     flex-direction: column;
     width: 100%;
     margin-top: 5rem;
+    /* text-indent: 30px */
 }
 
 .app__owner-content_quote {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    /* text-indent: 30px */
 }
 
 
@@ -18,7 +20,10 @@
     font-size: 32;
     line-height: 41px;
     letter-spacing: 0.04em;
+    text-indent: 30px;
     color: var(--color-golden)
+    /* text-indent: 30px */
+
 }
 
 .app__owner-sign img {

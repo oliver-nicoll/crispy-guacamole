@@ -12,25 +12,27 @@ const AboutUs = () => (
     
     <div className="app__aboutus-content flex__center">
       <div className="app__aboutus-content_about">
-        <h1 className='headtext__cormorant'>About Us</h1>
-        <img src={images.spoon} alt="about__spoon" className='spoon__image' />
+        <h1 className='headtext__cormorant'>Rebz</h1>
+        {/* <img src={images.spoon} alt="about__spoon" className='spoon__image' /> */}
         <p className="p__opensans">
-        Anomaly Craft Brewing is a family-owned brewery located in the heart of the community. We were established in 2022 as a rebranding of Marylou's Coffee Shop, which had been a staple in the area for 20 years. Our brewery is built on the pillars of faith-led decisions, community support, and a love for the brewing process. Our goal is to provide a warm and welcoming atmosphere where customers can enjoy a delicious craft beer and feel like part of the family.
+        As Anomaly grew, so did the opportunity to bring something new to the table. In Williamsport, we’re joining forces with Rick from Rebz Pizza, bringing his Detroit-style pizza together with our craft beer under one roof.
+Two local businesses, two passions, one space—and a whole lot of good food, good beer, and good people. We’re proud to welcome Rick and Rebz into the Anomaly family as we continue to grow together.
         </p>
       </div>
 
       <div className="app__aboutus-content_btn">
-        <a href={TeamPic}
+        {/* <a href={TeamPic}
           target="_blank">
           <button type='button' className='custom__button'>Our Team</button>
-        </a>
+        </a> */}
       </div>
 
       <div className="app__aboutus-content_history">
-        <h1 className='headtext__cormorant'>Our History</h1>
-        <img src={images.spoon} alt="history__spoon" className='spoon__image' />
+        <h1 className='headtext__cormorant'>Anomaly</h1>
+        {/* <img src={images.spoon} alt="history__spoon" className='spoon__image' /> */}
         <p className="p__opensans">
-        Anomaly Craft Brewing has its roots in A Perfect Blend, a tea house established by Marylou Oliver in 2002. Over the years, Marylou's passion for good food and drink evolved and A Perfect Blend became known for its excellent coffee, teas, and baked goods. As the business passed on to her grandson Nicholas Oliver and his family, they decided to rebrand as Anomaly Craft Brewing and bring their unique blend of faith, family, and beer to customers. 
+        Anomaly started with humble beginnings—a family coffee shop by MaryLou Oliver that became a brewery in 2022 under Nicholas Oliver. 
+        What began as a leap of faith coming back from a deployment, grew into a place built around good beer, good people, and community. Today, we’re proud to keep growing while staying true to where we started: family, faith, and a love for what we do. All beer credit goes to our Head Brewer: Steve Zourides.
         </p>
       </div>
     </div>
