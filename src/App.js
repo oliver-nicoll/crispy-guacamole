@@ -7,9 +7,10 @@ const App = () => (
   <div>
     <Navbar />
     <Header />
-    <AboutUs />
+   <Chef />
     <SpecialMenu />
-    <Chef />
+     <AboutUs />
+    
     <Intro />
     {/* <Mugclub /> */}
     <Events />
