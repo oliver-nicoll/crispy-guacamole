@@ -77,15 +77,18 @@
         height: 1100px;
     }
 
-    /* .app__aboutus-content_history p,
+    .app__aboutus-content_history p,
     .app__aboutus-content_about p {
         margin: 4rem 0;
-    } */
+    }
 }
 
 @media screen and (max-width: 900px) {
-    .app__findus-berwick .app__findus-williamsport {
+    .app__wrapper-inside {
         flex-direction: column;
+    }
+     .img_logo_2 {
+        margin-top: 27em;
     }
 
     /* .app__aboutus-content_btn {
@@ -96,7 +99,12 @@
 @media screen and (max-width: 650px) {
     .app__findus-berwick .app__findus-williamsport {
         width: 80%;
-        height: 350px
+        height: 350px;
+        flex-direction: column;
+    }
+
+    .img_logo_2 {
+        margin-top: 36em;
     }
 }
 
