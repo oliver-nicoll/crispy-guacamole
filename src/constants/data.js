@@ -24,7 +24,7 @@ const alltimefavbeer = [
   {
     title: 'Criollo Porter',
     price: '',
-    tags: 'Rich & Decadent - Porter infused w/ cocoa nibs & vinilla beans',
+    tags: 'Rich & Decadent - Porter infused w/ cocoa nibs & vanilla beans',
   },
 ];
 
