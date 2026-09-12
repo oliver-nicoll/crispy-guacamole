@@ -34,7 +34,7 @@ const FindUs = () => (
               <div className='app__findus-williamsport'>
                 <h3 className='app__findus-subheadtext2'> Williamsport Location</h3>
                   <p className='p__opensans'>913 Arch St., Williamsport, Pa 17701</p>
-                  <p className='p__opensans'>OPENING WEDNESDAY, SEPTEMBER 2, 2026 - 4PM</p>
+                  {/* <p className='p__opensans'>OPENING WEDNESDAY, SEPTEMBER 2, 2026 - 4PM</p> */}
                   <p className='app__findus-headtext' style={{ color: 'var(--color-crimson)', margin: '2rem 0'}}>Hours</p>
                   <p className='p__opensans'>Sunday: Closed</p>
                   <p className='p__opensans'>Monday: Closed</p>
