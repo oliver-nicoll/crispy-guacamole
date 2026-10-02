@@ -40,7 +40,7 @@ const Footer = () => (
             <p className="p__opensans">Sunday/Monday/Tuesday:</p>
             <p className="p__opensans">CLOSED.</p>
             <p className="p__opensans">Wednesday/ Thursday:</p>
-            <p className="p__opensans">12:00 pm - 08:00 pm</p>
+            <p className="p__opensans">04:00 pm - 09:00 pm</p>
             <p className="p__opensans">Friday:</p>
             <p className="p__opensans">12:00 pm - 09:00 pm</p>
             <p className="p__opensans">Saturday:</p>
@@ -49,10 +49,10 @@ const Footer = () => (
             <h3 className='app__footer-subheadtext'> Williamsport Location</h3>
             <p className="p__opensans">Sunday/Monday/Tuesday:</p>
             <p className="p__opensans">CLOSED.</p>
-            <p className="p__opensans">Wednesday/ Thursday:</p>
+            <p className="p__opensans">Wednesday/ Thursday/ Friday:</p>
             <p className="p__opensans">04:00 pm - 09:00 pm</p>
-            <p className="p__opensans">Friday:</p>
-            <p className="p__opensans">12:00 pm - 09:00 pm</p>
+            {/* <p className="p__opensans">Friday:</p>
+            <p className="p__opensans">12:00 pm - 09:00 pm</p> */}
             <p className="p__opensans">Saturday:</p>
             <p className="p__opensans">12:00 pm - 09:00 pm</p>
           </section>

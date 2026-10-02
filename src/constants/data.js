@@ -502,7 +502,7 @@ const beers = [
  
 ];
 
-//updated 10.15.2025
+//updated 10/01/2016
 const events = [
   {
     imgUrl: images.num1,
@@ -511,8 +511,8 @@ const events = [
   },
   {
     imgUrl: images.num2,
-    title: 'Music by: Mike Silvetti ',
-    subtitle: 'Come enjoy some live music by Mike Silvetti - Every Friday, Time: 6 PM | Anomaly Craft Brewing - Berwick Location',
+    title: 'Anomaly X Rebz - Grand Opening ',
+    subtitle: 'Come enjoy our Grand Opening on October 17, 2026 from 12PM - 9PM, Ribbon Cutting at Noon, live music by Audiobox at 6PM and other vendors present throughout the day | Anomaly X Rebz - Williamsport Location',
   },
   {
     imgUrl: images.num3,
@@ -521,13 +521,13 @@ const events = [
   },
   {
     imgUrl: images.num4,
-    title: 'Bloomsburg Fair',
-    subtitle: 'Come enjoy the fair with us and our firetruck, right next to Project Pizza. Drink some non-alcoholic drinks right from our TapTruck: Butterbeer, Heller`s Cider or Pumpkin Chai Coldbrew - September 25th until October 3, 2026. Located at the corner of 12th & C, Between Gate 3 & 4 | Anomaly Firetruck',
+    title: 'Hellers Apple Festival',
+    subtitle: 'Come enjoy the festival in Wapwallopen, Pa with us and our firetruck - serving our craft beer. October 17th & 18th 2026 | Anomaly Firetruck',
   },
   {
     imgUrl: images.num5,
-    title: 'Berwick Thursday Trivia Night',
-    subtitle: 'Join the FUN Every Thursday at Anomaly in Berwick, Pa - 6PM. Grab those tables early, it fills up fast - no reservations. Williamsport Location Trivia coming SOON! | Anomaly Craft Brewing - Berwick, Pa',
+    title: 'Berwick & Williamsport - Thursday Trivia Night',
+    subtitle: 'Join the FUN Every Thursday at Anomaly Craft Brewing in Berwick, Pa - 6PM & Anomaly X Rebz in Williamsport, Pa - 6PM. Grab those tables early, it fills up fast - no reservations | Anomaly Craft Brewing - Berwick, Pa & Anomaly X Rebz - Williamsport, Pa',
   },
 ];
 

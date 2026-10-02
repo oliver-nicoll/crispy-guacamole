@@ -41,12 +41,32 @@ import pizza5 from '../assets/ANOMALY/Pizza_Three.JPG';
 import team26 from '../assets/Meet Our Team.png';
 import anomalyxrebz from '../assets/ANOMALY/Food/Anomaly X Rebz T.png';
 import AnomalyFamTruck from '../assets/FamilyAnomalyFiretruck.JPG';
+import Wilpo1 from '../assets/ANOMALY/Williamsport/BarWilpo.jpeg';
+import Wilpo2 from '../assets/ANOMALY/Williamsport/DiningWilpo.jpeg';
+import Wilpo3 from '../assets/ANOMALY/Williamsport/PatioWilpo.jpeg';
+import Wilpo4 from '../assets/ANOMALY/Williamsport/RubusWilpo.jpeg';
+import Wilpo5 from '../assets/ANOMALY/Williamsport/TvPatioWilpo.jpeg';
+import Wilpo6 from '../assets/ANOMALY/Williamsport/BarWilpo.jpeg';
+import Wilpo7 from '../assets/ANOMALY/Williamsport/DinnerPicWilpo.JPG';
+import WilpoPizza from '../assets/ANOMALY/Williamsport/RebzPizza.PNG';
+import WilpoPizzaBal from '../assets/ANOMALY/Williamsport/RebzPizzaBal.PNG';
+import WilpoPizzaRebz from '../assets/ANOMALY/Williamsport/RebzPizzaWilpo.JPG';
 
 
 
 
 
 export default {
+  Wilpo1,
+  Wilpo2,
+  Wilpo3,
+  Wilpo4,
+  Wilpo5,
+  Wilpo6,
+  Wilpo7,
+  WilpoPizza,
+  WilpoPizzaBal,
+  WilpoPizzaRebz,
   AnomalyFamTruck,
   firet1,
   firet2,

@@ -24,10 +24,10 @@ const FindUs = () => (
                   <p className='p__opensans'>Sunday: Closed</p>
                   <p className='p__opensans'>Monday: Closed</p>
                   <p className='p__opensans'>Tuesday: Closed</p>
-                  <p className='p__opensans'>Wednesday: 12PM - 8PM</p>
-                  <p className='p__opensans'>Thursday: 12PM - 8PM</p>
+                  <p className='p__opensans'>Wednesday: 04PM - 09PM</p>
+                  <p className='p__opensans'>Thursday: 04PM -09PM</p>
                   <p className='p__opensans'>Friday: 12PM - 09PM</p>
-                  <p className='p__opensans'>Saturday: 9AM - 09PM</p>
+                  <p className='p__opensans'>Saturday: 09AM - 09PM</p>
                 <a href='https://goo.gl/maps/vud6pSGbNFJ1KKD99' target='_blank' rel="noreferrer"><button className='custom__button'  style={{marginTop: '2rem'}}>Visit Us</button></a>
               </div>
                 
@@ -41,7 +41,7 @@ const FindUs = () => (
                   <p className='p__opensans'>Tuesday: Closed</p>
                   <p className='p__opensans'>Wednesday: 04PM - 09PM</p>
                   <p className='p__opensans'>Thursday: 04PM - 09PM</p>
-                  <p className='p__opensans'>Friday: 12PM - 09PM</p>
+                  <p className='p__opensans'>Friday: 04PM - 09PM</p>
                   <p className='p__opensans'>Saturday: 12PM - 09PM</p> 
                 <a href="https://maps.app.goo.gl/DSjvhGTtumYsDQHh9" target="_blank" rel="noreferrer"><button className='custom__button'  style={{marginTop: '2rem'}}>Visit Us</button></a>
               </div>
